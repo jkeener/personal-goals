@@ -1,4 +1,3 @@
 # Blog Posts to Read
 
-### Productivity
-- [ ] [Open Sourcing Your Personal Goals](http://una.github.io/personal-goals-guide/)
+-[ ] [Animated SVG vs GIF [CAGEMATCH]](https://sarasoueidan.com/blog/svg-vs-gif/)
