@@ -24,8 +24,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read Webpack docs
 - [ ] Read vue-loader docs
 - [x] Get better at markdown
-- [x] Do at least one DuoLingo lesson a day
+- [ ] Do at least one DuoLingo lesson a day
 - [ ] Look for Open Source projects to contribute to
+- [ ] Make one CSSgram filter
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read a book
@@ -38,3 +39,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Code Things I Want to Do/Play With
 
+Thanks to Una for creating the origional template for this repo. Check it out here: https://github.com/una/personal-goals-starter
