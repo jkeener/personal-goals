@@ -11,6 +11,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 4. Get better at JS
 5. Exercise more
 6. Be kind
+7. Have fun
 
 # March 06, 2016
 
@@ -20,13 +21,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Go to the gym at least once
 - [ ] Go for a walk with my wife
-- [ ] Figure out why I'm getting npm errors
-- [ ] Read Webpack docs
+- [x] Figure out why I'm getting npm errors
+- [x] Read Webpack docs
 - [ ] Read vue-loader docs
 - [x] Get better at markdown
 - [ ] Do at least one DuoLingo lesson a day
-- [ ] Look for Open Source projects to contribute to
-- [ ] Make one CSSgram filter
+- [x] Look for Open Source projects to contribute to
+- [ ] Make one CSSgram filter (https://github.com/una/CSSgram)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read a book
@@ -39,4 +40,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Code Things I Want to Do/Play With
 
-Thanks to Una for creating the origional template for this repo. Check it out here: https://github.com/una/personal-goals-starter
+Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
