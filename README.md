@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Go for a walk with my wife
 - [x] Figure out why I'm getting npm errors
 - [x] Read Webpack docs
-- [ ] Read vue-loader docs
+- [x] Read vue-loader docs
 - [x] Get better at markdown
 - [ ] Do at least one DuoLingo lesson a day
 - [x] Look for Open Source projects to contribute to
@@ -36,8 +36,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Do at least one DuoLingo lesson a day
 
 ### Backlog: Side Projects :)
+
 - [ ] Portfolio one page app with vueJS
 
 ### Backlog: Code Things I Want to Do/Play With
+
+- [ ] Hitchhikers guide to the galaxy quote site
+- [ ] Silly parks and rec idea I had
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
