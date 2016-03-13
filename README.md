@@ -20,18 +20,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [x] Go to the gym at least once
-- [ ] Go for a walk with my wife
+- [x] Go for a walk with my wife
 - [x] Figure out why I'm getting npm errors
 - [x] Read Webpack docs
 - [x] Read vue-loader docs
 - [x] Get better at markdown
-- [ ] Do at least one DuoLingo lesson a day
+- [x] Do at least one DuoLingo lesson a day
 - [x] Look for Open Source projects to contribute to
-- [ ] Make one CSSgram filter (https://github.com/una/CSSgram)
+- [x] Make one CSSgram filter (https://github.com/una/CSSgram)
 
 ### Things I'll Do This Month: March 2016
+
 - [ ] Read a book
 - [ ] Understand Webpack docs (don't just read them!)
+- [ ] Go to the at least gym once a week
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are Unfamiliar)
 - [ ] Do at least one DuoLingo lesson a day
 
