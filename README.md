@@ -13,27 +13,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind
 7. Have fun
 
-# March 06, 2016
+# March 13, 2016
 
-### This Week's Goal: Webpack!
+### This Week's Goal: Javascript!
 
 ## Things I'll Do This Week:
 
-- [x] Go to the gym at least once
-- [x] Go for a walk with my wife
-- [x] Figure out why I'm getting npm errors
-- [x] Read Webpack docs
-- [x] Read vue-loader docs
-- [x] Get better at markdown
-- [x] Do at least one DuoLingo lesson a day
-- [x] Look for Open Source projects to contribute to
-- [x] Make one CSSgram filter (https://github.com/una/CSSgram)
+- [ ] Learn how to fold a fitted sheet without putting it on the floor. [Like this!](https://www.youtube.com/watch?v=_Z5k9nWcuFc)
+- [ ] Read at least 3 chapters of the MDN Javascript guide
+- [ ] Read a chapter of You don't know JS: sp & going a day
+- [ ] Work on linkenin summary
+- [ ] Make bread
+- [ ] Another CSSgram filter
+- [ ] Read 2 articles from Pocket
+- [ ] Watch at least one video from JSConf US 2015 every day
+- [ ] Download podcasts for the gym
 
 ### Things I'll Do This Month: March 2016
 
 - [ ] Read a book
-- [ ] Understand Webpack docs (don't just read them!)
+- [x] Understand Webpack docs (don't just read them!)
 - [ ] Go to the at least gym once a week
+- [ ] Take a walk with Alaina at least once a week
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are Unfamiliar)
 - [ ] Do at least one DuoLingo lesson a day
 
