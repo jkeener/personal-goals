@@ -23,11 +23,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read at least 3 chapters of the MDN Javascript guide
 - [ ] Read a chapter of You don't know JS: up & going a day
 - [ ] Work on linkenin summary
-- [ ] Make bread
+- [x] Make bread
 - [ ] Another CSSgram filter
-- [ ] Read 2 articles from Pocket
+- [x] Read 2 articles from Pocket
 - [ ] Watch at least one video from JSConf US 2015 every day
-- [ ] Download podcasts for the gym
+- [x] Download podcasts for the gym
 
 ### Things I'll Do This Month: March 2016
 
