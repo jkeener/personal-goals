@@ -21,7 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Learn how to fold a fitted sheet without putting it on the floor. [Like this!](https://www.youtube.com/watch?v=_Z5k9nWcuFc)
 - [ ] Read at least 3 chapters of the MDN Javascript guide
-- [ ] Read a chapter of You don't know JS: up & going a day
+- [x] Read a chapter of You don't know JS: up & going a day (see note in accomplishments)
 - [ ] Work on linkenin summary
 - [x] Make bread
 - [ ] Another CSSgram filter

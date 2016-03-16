@@ -4,6 +4,7 @@
 
 - [x] So Long, and Thanks for All the Fish
 - [ ] Mostly Harmless
+- [ ] YDKJS Scope & Closures
 
 ## I want to read
 
