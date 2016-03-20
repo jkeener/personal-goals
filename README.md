@@ -19,14 +19,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Learn how to fold a fitted sheet without putting it on the floor. [Like this!](https://www.youtube.com/watch?v=_Z5k9nWcuFc)
-- [ ] Read at least 3 chapters of the MDN Javascript guide
+- [x] Learn how to fold a fitted sheet without putting it on the floor. [Like this!](https://www.youtube.com/watch?v=_Z5k9nWcuFc)
+- [x] Read at least 3 chapters of the MDN Javascript guide
 - [x] Read a chapter of You don't know JS: up & going a day (see note in accomplishments)
-- [ ] Work on linkenin summary
+- [x] Work on linkenin summary
 - [x] Make bread
-- [ ] Another CSSgram filter
+- [x] Another CSSgram filter
 - [x] Read 2 articles from Pocket
-- [ ] Watch at least one video from JSConf US 2015 every day
+- [x] Watch at least one video from JSConf US 2015 every day
 - [x] Download podcasts for the gym
 
 ### Things I'll Do This Month: March 2016
