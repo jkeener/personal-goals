@@ -13,25 +13,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind
 7. Have fun
 
-# March 13, 2016
+# March 20, 2016
 
-### This Week's Goal: Javascript!
+### This Week's Goal: Javascript! & some jQuery
 
 ## Things I'll Do This Week:
 
-- [x] Learn how to fold a fitted sheet without putting it on the floor. [Like this!](https://www.youtube.com/watch?v=_Z5k9nWcuFc)
-- [x] Read at least 3 chapters of the MDN Javascript guide
-- [x] Read a chapter of You don't know JS: up & going a day (see note in accomplishments)
-- [x] Work on linkenin summary
-- [x] Make bread
-- [x] Another CSSgram filter
-- [x] Read 2 articles from Pocket
-- [x] Watch at least one video from JSConf US 2015 every day
-- [x] Download podcasts for the gym
+- [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
+- [ ] Build something with the Twitter API (streaming).
+- [ ] Do the Photoshop for the chrome app.
+- [ ] Page from MDN Javascript guide a day.
+- [ ] 10 push ups a day (I'm starting slow!).
+- [ ] Read 3 articles from Pocket.
+- [ ] Read some of YDKJS S&C
 
 ### Things I'll Do This Month: March 2016
 
-- [ ] Read a book
+- [x] Read a book
 - [x] Understand Webpack docs (don't just read them!)
 - [ ] Go to the at least gym once a week
 - [ ] Take a walk with Alaina at least once a week

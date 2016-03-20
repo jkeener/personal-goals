@@ -3,8 +3,9 @@
 ## March 2016
 
 - [x] So Long, and Thanks for All the Fish
-- [ ] Mostly Harmless
+- [x] Mostly Harmless
 - [ ] YDKJS Scope & Closures
+- [ ] 1984
 
 ## I want to read
 
