@@ -20,12 +20,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
-- [ ] Build something with the Twitter API (streaming).
+- [x] Make somethng with twitter streaming api
 - [ ] Do the Photoshop for the chrome app.
 - [ ] Page from MDN Javascript guide a day.
 - [ ] 10 push ups a day (I'm starting slow!).
-- [ ] Read 3 articles from Pocket.
-- [ ] Read some of YDKJS S&C
+- [x] Read 3 articles from Pocket.
+- [x] Read some of YDKJS S&C
 
 ### Things I'll Do This Month: March 2016
 
