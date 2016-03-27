@@ -4,13 +4,13 @@
 
 - [x] So Long, and Thanks for All the Fish
 - [x] Mostly Harmless
+- [x] YDKJS Up & Going
 - [ ] YDKJS Scope & Closures
 - [ ] 1984
 
 ## I want to read
 
-Swiss Family Robinson  
-1984  
+Swiss Family Robinson
 Shadows of Self  
 The Bands of Mourning  
 Forge of Darkness  

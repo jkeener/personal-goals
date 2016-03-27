@@ -19,11 +19,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
+- [x] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
 - [x] Make somethng with twitter streaming api
-- [ ] Do the Photoshop for the chrome app.
-- [ ] Page from MDN Javascript guide a day.
-- [ ] 10 push ups a day (I'm starting slow!).
+- [x] Do the Photoshop for the chrome app.
+- [x] Page from MDN Javascript guide a day.
+- [x] 10 push ups a day (I'm starting slow!).
 - [x] Read 3 articles from Pocket.
 - [x] Read some of YDKJS S&C
 
