@@ -13,19 +13,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind
 7. Have fun
 
-# March 20, 2016
+# March 27, 2016
 
-### This Week's Goal: Javascript! & some jQuery
+### This Week's Goal: Vue.js one page portfolio
 
 ## Things I'll Do This Week:
 
-- [x] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
-- [x] Make somethng with twitter streaming api
-- [x] Do the Photoshop for the chrome app.
-- [x] Page from MDN Javascript guide a day.
-- [x] 10 push ups a day (I'm starting slow!).
-- [x] Read 3 articles from Pocket.
-- [x] Read some of YDKJS S&C
+- [ ] Make a one page portfolio with vuejs.
+- [ ] Read vue router docs.
+- [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
+- [ ] 10 push ups a day (build that habit!).
+- [ ] Watch a movie from our list.
+- [ ] Get back in the habit of making the bed everyday.
+- [ ] Organize the pantry.
+- [ ] Hang up coat rack.
+- [ ] Read a chapter of YDKJS Scope & Closures.
 
 ### Things I'll Do This Month: March 2016
 
@@ -39,10 +41,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Backlog: Side Projects :)
 
 - [ ] Portfolio one page app with vueJS
+- [ ] Silly parks and rec idea I had
 
 ### Backlog: Code Things I Want to Do/Play With
 
 - [ ] Hitchhikers guide to the galaxy quote site
-- [ ] Silly parks and rec idea I had
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
