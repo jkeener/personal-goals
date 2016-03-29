@@ -33,7 +33,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Read a book
 - [x] Understand Webpack docs (don't just read them!)
-- [ ] Go to the at least gym once a week
+- [x] Go to the at least gym once a week
 - [ ] Take a walk with Alaina at least once a week
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are Unfamiliar)
 - [ ] Do at least one DuoLingo lesson a day
