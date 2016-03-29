@@ -12,9 +12,9 @@
 
 ### Tuesday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 
 ### Wednesday
 

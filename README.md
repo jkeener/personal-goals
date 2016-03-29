@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Make a one page portfolio with vuejs.
-- [ ] Read vue router docs.
+- [x] Read vue router docs.
 - [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
 - [ ] 10 push ups a day (build that habit!).
 - [ ] Watch a movie from our list.
