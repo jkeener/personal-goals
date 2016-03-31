@@ -27,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Get back in the habit of making the bed everyday.
 - [ ] Organize the pantry.
 - [x] Hang up coat rack.
-- [ ] Read a chapter of YDKJS Scope & Closures.
+- [x] Read a chapter of YDKJS Scope & Closures.
 
 ### Things I'll Do This Month: March 2016
 
