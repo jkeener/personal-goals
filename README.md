@@ -26,7 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Watch a movie from our list.
 - [ ] Get back in the habit of making the bed everyday.
 - [ ] Organize the pantry.
-- [ ] Hang up coat rack.
+- [x] Hang up coat rack.
 - [ ] Read a chapter of YDKJS Scope & Closures.
 
 ### Things I'll Do This Month: March 2016
@@ -46,5 +46,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Backlog: Code Things I Want to Do/Play With
 
 - [ ] Hitchhikers guide to the galaxy quote site
+- [ ] D3.js
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
