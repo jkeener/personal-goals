@@ -30,6 +30,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read 3 articles from Pocket.
 - [ ] Continue making the bed (build that habit).
 - [ ] Work on the chrome extension.
+- [ ] Play music.
 
 ### Things I'll Do This Month: April 2016
 
