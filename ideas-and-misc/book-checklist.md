@@ -18,7 +18,9 @@ More Diskworld Books
 Blood and Bone  
 Assail  
 Malazan Book of The Fallen re-read #3  
-Finish The Wheel of Time 
+Finish The Wheel of Time
+The Black Company
+Ready Player One
 
 
 

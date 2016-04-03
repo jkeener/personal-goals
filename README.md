@@ -6,46 +6,48 @@ Personal goals made open source.
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
-1. Contribute to Open Source
-3. Use Twitter more
-4. Get better at JS
-5. Exercise more
-6. Be kind
-7. Have fun
+1. Contribute to Open Source.
+3. Use Twitter more.
+4. Get better at JS.
+5. Exercise more.
+6. Be kind.
+7. Have fun.
 
-# March 27, 2016
+# April 3, 2016
 
-### This Week's Goal: Vue.js one page portfolio
+### This Week's Goal: Javascript
 
 ## Things I'll Do This Week:
 
-- [ ] Make a one page portfolio with vuejs.
-- [x] Read vue router docs.
+- [ ] Hang up the mirror.
+- [ ] Read 2 chapters of YDKJS Scope & Closures.
+- [ ] 20 push ups a day (next week to 60 sec. set).
+- [ ] Page from the MDN Javascript guide a day.
 - [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
-- [ ] 10 push ups a day (build that habit!).
-- [ ] Watch a movie from our list.
-- [ ] Get back in the habit of making the bed everyday.
-- [ ] Organize the pantry.
-- [x] Hang up coat rack.
-- [x] Read a chapter of YDKJS Scope & Closures.
+- [ ] Make a small timer app with js.
+- [ ] Movie from our list.
+- [ ] Watch a lot of baseball!
+- [ ] Read 3 articles from Pocket.
+- [ ] Continue making the bed (build that habit).
+- [ ] Work on the chrome extension.
 
-### Things I'll Do This Month: March 2016
+### Things I'll Do This Month: April 2016
 
-- [x] Read a book
-- [x] Understand Webpack docs (don't just read them!)
-- [x] Go to the at least gym once a week
-- [ ] Take a walk with Alaina at least once a week
-- [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are Unfamiliar)
-- [ ] Do at least one DuoLingo lesson a day
+- [ ] Read a book.
+- [ ] Go to the at least gym once a week.
+- [ ] Take a walk with Alaina at least once a week.
+- [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
+- [ ] Do at least one DuoLingo lesson a day.
+- [ ] Apply for a job.
 
 ### Backlog: Side Projects :)
 
-- [ ] Portfolio one page app with vueJS
-- [ ] Silly parks and rec idea I had
+- [ ] Refine the portfolio one page app with vueJS.
+- [ ] Silly parks and rec idea I had.
 
 ### Backlog: Code Things I Want to Do/Play With
 
-- [ ] Hitchhikers guide to the galaxy quote site
-- [ ] D3.js
+- [ ] Hitchhikers guide to the galaxy quote site.
+- [ ] D3.js.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
