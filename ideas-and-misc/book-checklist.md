@@ -3,7 +3,8 @@
 ## April 2016
 
 - [ ] YDKJS Scope & Closures
-- [ ] 1984
+- [x] 1984
+- [ ] Watership Down
 
 ## March 2016
 

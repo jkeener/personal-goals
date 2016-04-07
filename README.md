@@ -20,14 +20,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Hang up the mirror.
-- [ ] Read 2 chapters of YDKJS Scope & Closures.
+- [x] Read 2 chapters of YDKJS Scope & Closures.
 - [ ] 20 push ups a day (next week to 60 sec. set).
 - [ ] 3 pages from the MDN Javascript guide.
 - [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
 - [ ] Make a small timer app with js.
 - [ ] Movie from our list.
-- [ ] Watch a lot of baseball!
-- [ ] Read 3 articles from Pocket.
+- [x] Watch a lot of baseball!
+- [x] Read 3 articles from Pocket.
 - [ ] Continue making the bed (build that habit).
 - [ ] Work on the chrome extension.
 - [ ] Play music.
