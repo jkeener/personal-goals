@@ -1,18 +1,19 @@
 ### Sunday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [ ] Duolingo.
-- [ ] 10/10.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] Duolingo.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Monday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [ ] Duolingo.
-- [ ] 10/10.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] Duolingo.
+- [x] 10/10.
 
 ### Tuesday
 
@@ -21,6 +22,7 @@
 - [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [ ] Duolingo.
 - [ ] 10/10.
+- [ ] Tweet.
 
 ### Wednesday
 
@@ -29,6 +31,7 @@
 - [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [ ] Duolingo.
 - [ ] 10/10.
+- [ ] Tweet.
 
 ### Thursday
 
@@ -37,6 +40,7 @@
 - [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [ ] Duolingo.
 - [ ] 10/10.
+- [ ] Tweet.
 
 ### Friday
 
@@ -45,6 +49,7 @@
 - [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [ ] Duolingo.
 - [ ] 10/10.
+- [ ] Tweet.
 
 ### Saturday
 
@@ -52,4 +57,5 @@
 - [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [ ] Duolingo.
 - [ ] 10/10.
+- [ ] Tweet.
 - (Alaina makes the bed on Saturdays)
