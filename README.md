@@ -23,22 +23,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Go birding on Saturday.
 - [ ] Tweet once a day.
 - [x] Hang up a picture.
-- [ ] Reread YDKJS section on modules.
-- [ ] Read a chapter of YDKJS.
-- [ ] Reread MDN section on [Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model).
+- [x] Reread YDKJS section on modules.
+- [x] Read a chapter of YDKJS.
+- [x] Reread MDN section on [Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model).
 - [ ] Make the timer have a start/stop button.
 - [x] Do the CSS for the timer.
 - [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
 - [x] Read 3 articles from Pocket.
 - [ ] Continue making the bed (build that habit).
-- [ ] Play music.
+- [x] Play music.
 - [ ] Gym.
 - [ ] Walk.
 - [x] Movie from our list.
 
 ### Things I'll Do This Month: April 2016
 
-- [ ] Read a book.
+- [x] Read a book.
 - [ ] Go to the at least gym once a week.
 - [ ] Take a walk with Alaina at least once a week.
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).

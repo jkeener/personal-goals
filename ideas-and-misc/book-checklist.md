@@ -2,9 +2,10 @@
 
 ## April 2016
 
-- [ ] YDKJS Scope & Closures
+- [x] YDKJS Scope & Closures
 - [x] 1984
 - [ ] Watership Down
+- [ ] YDKJS This & Object Prototypes
 
 ## March 2016
 
