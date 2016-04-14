@@ -26,13 +26,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Reread YDKJS section on modules.
 - [x] Read a chapter of YDKJS.
 - [x] Reread MDN section on [Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model).
-- [ ] Make the timer have a start/stop button.
+- [x] Make the timer have a start/stop button.
 - [x] Do the CSS for the timer.
-- [ ] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day.
+- [x] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day. //finished on Wed.
 - [x] Read 3 articles from Pocket.
 - [ ] Continue making the bed (build that habit).
 - [x] Play music.
-- [ ] Gym.
+- [x] Gym.
 - [ ] Walk.
 - [x] Movie from our list.
 

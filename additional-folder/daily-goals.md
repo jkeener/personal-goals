@@ -27,27 +27,27 @@
 
 ### Wednesday
 
-- [ ] 10 push ups.
+- [x] 10 push ups.
 - [x] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [x] Duolingo.
 - [x] 10/10.
 - [ ] Tweet.
 
 ### Thursday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [ ] Duolingo.
-- [ ] 10/10.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
+- [x] Duolingo.
+- [x] 10/10.
 - [ ] Tweet.
 
 ### Friday
 
 - [ ] 10 push ups.
 - [ ] Make the bed.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
 - [ ] Duolingo.
 - [ ] 10/10.
 - [ ] Tweet.
@@ -55,7 +55,7 @@
 ### Saturday
 
 - [ ] 10 push ups.
-- [ ] Video from CSS-Tricks 'Learn jQuery from Scratch'.
+- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
 - [ ] Duolingo.
 - [ ] 10/10.
 - [ ] Tweet.
