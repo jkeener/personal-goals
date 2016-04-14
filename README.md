@@ -43,7 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Take a walk with Alaina at least once a week.
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
 - [ ] Do at least one DuoLingo lesson a day.
-- [ ] Apply for a job.
+- [x] Apply for a job.
 
 ### Backlog: Side Projects :)
 

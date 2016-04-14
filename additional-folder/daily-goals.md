@@ -32,7 +32,7 @@
 - [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
 - [x] Duolingo.
 - [x] 10/10.
-- [ ] Tweet.
+- [x] Tweet.
 
 ### Thursday
 
@@ -41,7 +41,7 @@
 - [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
 - [x] Duolingo.
 - [x] 10/10.
-- [ ] Tweet.
+- [x] Tweet.
 
 ### Friday
 
