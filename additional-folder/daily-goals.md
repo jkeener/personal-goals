@@ -1,10 +1,10 @@
 ### Sunday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
-- [ ] 10/10.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
+- [x] 10/10.
 - [ ] Tweet.
 
 ### Monday
