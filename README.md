@@ -13,28 +13,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind.
 7. Have fun.
 
-# April 10, 2016
+# April 17, 2016
 
 ### This Week's Goal: Javascript
 
 ## Things I'll Do This Week:
 
-- [ ] 10 push ups a day. (Trying to have good form)
-- [ ] Go birding on Saturday.
-- [ ] Tweet once a day.
-- [x] Hang up a picture.
-- [x] Reread YDKJS section on modules.
-- [x] Read a chapter of YDKJS.
-- [x] Reread MDN section on [Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model).
-- [x] Make the timer have a start/stop button.
-- [x] Do the CSS for the timer.
-- [x] At least one video from CSS-Tricks 'Learn jQuery from Scratch' a day. //finished on Wed.
-- [x] Read 3 articles from Pocket.
-- [ ] Continue making the bed (build that habit).
-- [x] Play music.
-- [x] Gym.
+- [ ] Make the manifest.json file for the chrome app.
+- [ ] Refine resume.
+- [ ] Interview with recruiter. 
+- [ ] Section from Css Secrets every day. (reread)
+- [ ] 2 articles from the MDN Javascript guide.
+- [ ] 2 Chapters from YDKJS.
+- [ ] Find jQuery plugins to contribute to.
+- [ ] Play music.
+- [ ] Gym.
+- [ ] Pushups everyday.
 - [ ] Walk.
-- [x] Movie from our list.
+- [ ] Movie from our list.
+- [ ] Make bread.
+- [ ] Go birding.
 
 ### Things I'll Do This Month: April 2016
 

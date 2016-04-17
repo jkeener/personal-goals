@@ -1,53 +1,53 @@
 ### Sunday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10 push ups.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
+- [ ] Tweet.
 
 ### Monday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10 push ups.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
+- [ ] Tweet.
 
 ### Tuesday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10 push ups.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
+- [ ] Tweet.
 
 ### Wednesday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10 push ups.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
+- [ ] Tweet.
 
 ### Thursday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10 push ups.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
+- [ ] Tweet.
 
 ### Friday
 
 - [ ] 10 push ups.
 - [ ] Make the bed.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
+- [ ] Section from CSS Secrets.
 - [ ] Duolingo.
 - [ ] 10/10.
 - [ ] Tweet.
@@ -55,7 +55,7 @@
 ### Saturday
 
 - [ ] 10 push ups.
-- [x] Video from CSS-Tricks 'Learn jQuery from Scratch'. //finished course on wed
+- [ ] Section from CSS Secrets.
 - [ ] Duolingo.
 - [ ] 10/10.
 - [ ] Tweet.

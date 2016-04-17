@@ -7,6 +7,7 @@
 - [ ] Watership Down
 - [ ] YDKJS This & Object Prototypes
 - [ ] CSS Secrets
+- [ ] Sorcerer's Spprentice
 
 ## March 2016
 
@@ -28,3 +29,4 @@ Finish The Wheel of Time
 The Black Company
 Ready Player One
 Watership Down
+All of YDKJS
