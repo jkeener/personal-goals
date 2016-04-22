@@ -19,21 +19,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Hang a picture.
+- [x] Hang a picture.
 - [ ] Make the manifest.json file for the chrome app.
-- [ ] Refine resume.
-- [ ] Interview with recruiter. 
+- [x] Refine resume.
+- [x] Interview with recruiter. 
 - [ ] Section from Css Secrets every day. (reread)
 - [x] 2 articles from the MDN Javascript guide.
-- [ ] 2 Chapters from YDKJS. 0/2
-- [ ] Find jQuery plugins to contribute to.
+- [x] 2 Chapters from YDKJS. 2/2
+- [x] Look for jQuery plugins to contribute to.
 - [ ] Play music.
-- [ ] Gym.
+- [x] Gym.
 - [ ] Pushups everyday.
 - [ ] Walk.
 - [ ] Movie from our list.
-- [ ] Make bread.
-- [ ] Go birding.
+- [x] Make bread.
+- [x] Go birding.
 - [ ] Tweet everyday.
 
 ### Things I'll Do This Month: April 2016
@@ -50,6 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Add GitHub link to my site.
 - [ ] Refine the portfolio one page app with vueJS.
 - [ ] Silly parks and rec idea I had.
+- [ ] CSS birds.
 
 ### Backlog: Code Things I Want to Do/Play With
 

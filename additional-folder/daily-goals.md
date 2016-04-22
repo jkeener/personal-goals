@@ -5,50 +5,50 @@
 - [x] Section from CSS Secrets.
 - [x] Duolingo.
 - [x] 10/10.
-- [ ] Tweet.
+- [x] Tweet.
 
 ### Monday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
-- [ ] 10/10.
-- [ ] Tweet.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Tuesday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
-- [ ] 10/10.
-- [ ] Tweet.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Wednesday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
-- [ ] 10/10.
-- [ ] Tweet.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Thursday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
-- [ ] 10/10.
-- [ ] Tweet.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Friday
 
-- [ ] 10 push ups.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
+- [x] 10 push ups.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
 - [ ] 10/10.
 - [ ] Tweet.
 
