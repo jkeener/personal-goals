@@ -2,9 +2,9 @@
 
 - [ ] Plank.
 - [x] Make the bed.
-- [ ] Section from CSS Secrets.
+- [x] Section from CSS Secrets.
 - [x] Duolingo.
-- [ ] 10/10.
+- [x] 10/10.
 
 ### Monday
 
