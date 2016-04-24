@@ -23,18 +23,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Make the manifest.json file for the chrome app.
 - [x] Refine resume.
 - [x] Interview with recruiter. 
-- [ ] Section from Css Secrets every day. (reread)
+- [x] Section from Css Secrets every day. (reread)
 - [x] 2 articles from the MDN Javascript guide.
 - [x] 2 Chapters from YDKJS. 2/2
 - [x] Look for jQuery plugins to contribute to.
-- [ ] Play music.
+- [x] Play music.
 - [x] Gym.
-- [ ] Pushups everyday.
-- [ ] Walk.
-- [ ] Movie from our list.
+- [x] Pushups everyday.
+- [x] Walk.
+- [x] Movie from our list.
 - [x] Make bread.
 - [x] Go birding.
-- [ ] Tweet everyday.
+- [x] Tweet everyday.
 
 ### Things I'll Do This Month: April 2016
 

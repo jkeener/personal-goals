@@ -49,14 +49,14 @@
 - [x] Make the bed.
 - [x] Section from CSS Secrets.
 - [x] Duolingo.
-- [ ] 10/10.
-- [ ] Tweet.
+- [x] 10/10.
+- [x] Tweet.
 
 ### Saturday
 
-- [ ] 10 push ups.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
+- [x] 10 push ups.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
 - [ ] 10/10.
-- [ ] Tweet.
+- [x] Tweet.
 - (Alaina makes the bed on Saturdays)
