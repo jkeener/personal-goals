@@ -13,28 +13,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind.
 7. Have fun.
 
-# April 17, 2016
+# April 24, 2016
 
-### This Week's Goal: Javascript
+### This Week's Goal: Get out more!
 
 ## Things I'll Do This Week:
 
-- [x] Hang a picture.
-- [ ] Make the manifest.json file for the chrome app.
-- [x] Refine resume.
-- [x] Interview with recruiter. 
-- [x] Section from Css Secrets every day. (reread)
-- [x] 2 articles from the MDN Javascript guide.
-- [x] 2 Chapters from YDKJS. 2/2
-- [x] Look for jQuery plugins to contribute to.
-- [x] Play music.
-- [x] Gym.
-- [x] Pushups everyday.
-- [x] Walk.
-- [x] Movie from our list.
-- [x] Make bread.
-- [x] Go birding.
-- [x] Tweet everyday.
+- [ ] Go through - make - the examples on http://www.flexboxpatterns.com/
+- [ ] Do some drawings of gulls.
+- [ ] Add GitHub link to my site.
+- [ ] Go to the gym twice. 0/2
+- [ ] Go birding.
+- [ ] Take a walk.
+- [ ] Movie from our list.
+- [ ] 1 Chapter from YDKJS.
+- [ ] Hang up mirror.
+- [ ] Put my Css Secrets examples of GitHub.
+- [ ] Section from CSS Secrets everyday.
+- [ ] Play music.
+- [ ] Planks everyday.
 
 ### Things I'll Do This Month: April 2016
 

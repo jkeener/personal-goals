@@ -1,3 +1,6 @@
 ### Steps to complete my weakly goal
 
-1. Read A lot!
+- Go to the gym.
+- take a walk.
+- Go birding.
+- Go to the store?

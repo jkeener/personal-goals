@@ -1,62 +1,55 @@
 ### Sunday
 
-- [x] 10 push ups.
+- [ ] Plank.
 - [x] Make the bed.
-- [x] Section from CSS Secrets.
+- [ ] Section from CSS Secrets.
 - [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] 10/10.
 
 ### Monday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
 
 ### Tuesday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
 
 ### Wednesday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
 
 ### Thursday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
 
 ### Friday
 
-- [x] 10 push ups.
-- [x] Make the bed.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
-- [x] 10/10.
-- [x] Tweet.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
+- [ ] 10/10.
 
 ### Saturday
 
-- [x] 10 push ups.
-- [x] Section from CSS Secrets.
-- [x] Duolingo.
+- [ ] Plank.
+- [ ] Section from CSS Secrets.
+- [ ] Duolingo.
 - [ ] 10/10.
-- [x] Tweet.
 - (Alaina makes the bed on Saturdays)
