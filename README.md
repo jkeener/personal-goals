@@ -21,8 +21,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Go through - make - the examples on http://www.flexboxpatterns.com/
 - [ ] Do some drawings of gulls.
-- [ ] Add GitHub link to my site.
-- [ ] Go to the gym twice. 0/2
+- [x] Add GitHub link to my site.
+- [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
@@ -36,7 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: April 2016
 
 - [x] Read a book.
-- [ ] Go to the at least gym once a week.
+- [x] Go to the at least gym once a week.
 - [ ] Take a walk with Alaina at least once a week.
 - [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
 - [ ] Do at least one DuoLingo lesson a day.

@@ -1,6 +1,6 @@
 ### Sunday
 
-- [ ] Plank.
+- [x] Plank.
 - [x] Make the bed.
 - [x] Section from CSS Secrets.
 - [x] Duolingo.
@@ -9,9 +9,9 @@
 ### Monday
 
 - [ ] Plank.
-- [ ] Make the bed.
-- [ ] Section from CSS Secrets.
-- [ ] Duolingo.
+- [x] Make the bed.
+- [x] Section from CSS Secrets.
+- [x] Duolingo.
 - [ ] 10/10.
 
 ### Tuesday
