@@ -23,14 +23,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Do some drawings of gulls.
 - [x] Add GitHub link to my site.
 - [ ] Go to the gym twice. 1/2
-- [ ] Go birding.
+- [x] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
 - [ ] 1 Chapter from YDKJS.
 - [ ] Hang up mirror.
-- [ ] Put my Css Secrets examples of GitHub.
+- [x] Put my Css Secrets examples of GitHub.
 - [ ] Section from CSS Secrets everyday.
-- [ ] Play music.
+- [x] Play music.
 - [ ] Planks everyday.
 
 ### Things I'll Do This Month: April 2016
