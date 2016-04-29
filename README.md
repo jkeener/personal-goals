@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Go through - make - the examples on http://www.flexboxpatterns.com/
-- [ ] Do some drawings of gulls.
+- [x] Do some drawings of gulls.
 - [x] Add GitHub link to my site.
 - [ ] Go to the gym twice. 1/2
 - [x] Go birding.
@@ -44,14 +44,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Side Projects :)
 
-- [ ] Add GitHub link to my site.
-- [ ] Refine the portfolio one page app with vueJS.
+- [x] Add GitHub link to my site.
+- [ ] Change one page portfolio into a photography site.
 - [ ] Silly parks and rec idea I had.
-- [ ] CSS birds.
 
 ### Backlog: Code Things I Want to Do/Play With
 
 - [ ] Hitchhikers guide to the galaxy quote site.
 - [ ] D3.js.
+- [ ] CSS birds.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
