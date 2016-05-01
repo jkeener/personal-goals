@@ -12,39 +12,40 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Exercise more.
 6. Be kind.
 7. Have fun.
+8. Go birding a lot.
 
-# April 24, 2016
+# May 1, 2016
 
 ### This Week's Goal: Get out more!
 
 ## Things I'll Do This Week:
 
-- [x] Go through - make - the examples on http://www.flexboxpatterns.com/
-- [x] Do some drawings of gulls.
-- [x] Add GitHub link to my site.
-- [x] Go to the gym twice. 2/2
-- [x] Go birding.
-- [x] Take a walk.
-- [x] Movie from our list.
-- [x] 1 Chapter from YDKJS.
-- [x] Hang up mirror.
-- [x] Put my Css Secrets examples of GitHub.
-- [x] Section from CSS Secrets everyday.
-- [x] Play music.
-- [x] Planks everyday.
+- [ ] Do some bird drawings
+- [ ] Put bird calls on my phone
+- [ ] Go to the gym.
+- [ ] Go birding.
+- [ ] Take a walk.
+- [ ] Movie from our list.
+- [ ] 1 Chapter from YDKJS.
+- [ ] Section from CSS Secrets everyday.
+- [ ] Put CSS Secrets in Dropbox
+- [ ] Play music.
+- [ ] Planks everyday.
+- [ ] Photo site: redo lightbox.
+- [ ] Photo site: Correct categories.
+- [ ] Draw everyday.
 
 ### Things I'll Do This Month: April 2016
 
-- [x] Read a book.
-- [x] Go to the at least gym once a week.
-- [x] Take a walk with Alaina at least once a week.
-- [x] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
-- [x] Do at least one DuoLingo lesson a day.
-- [x] Apply for a job.
+- [ ] Read a book.
+- [ ] Go to the at least gym once a week. 0/4
+- [ ] Take a walk with Alaina at least once a week. 0/4
+- [ ] Do at least one DuoLingo lesson a day.
+- [ ] Launch the photo site.
+- [ ] Go birding once a week. 0/4
 
 ### Backlog: Side Projects :)
 
-- [x] Add GitHub link to my site.
 - [ ] Change one page portfolio into a photography site.
 - [ ] Silly parks and rec idea I had.
 
