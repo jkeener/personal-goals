@@ -19,27 +19,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Go through - make - the examples on http://www.flexboxpatterns.com/
+- [x] Go through - make - the examples on http://www.flexboxpatterns.com/
 - [x] Do some drawings of gulls.
 - [x] Add GitHub link to my site.
-- [ ] Go to the gym twice. 1/2
+- [x] Go to the gym twice. 2/2
 - [x] Go birding.
-- [ ] Take a walk.
-- [ ] Movie from our list.
-- [ ] 1 Chapter from YDKJS.
-- [ ] Hang up mirror.
+- [x] Take a walk.
+- [x] Movie from our list.
+- [x] 1 Chapter from YDKJS.
+- [x] Hang up mirror.
 - [x] Put my Css Secrets examples of GitHub.
-- [ ] Section from CSS Secrets everyday.
+- [x] Section from CSS Secrets everyday.
 - [x] Play music.
-- [ ] Planks everyday.
+- [x] Planks everyday.
 
 ### Things I'll Do This Month: April 2016
 
 - [x] Read a book.
 - [x] Go to the at least gym once a week.
-- [ ] Take a walk with Alaina at least once a week.
-- [ ] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
-- [ ] Do at least one DuoLingo lesson a day.
+- [x] Take a walk with Alaina at least once a week.
+- [x] Do at least 1 10/10 everyday (check out http://www.unfuckyourhabitat.com/ if you are unfamiliar).
+- [x] Do at least one DuoLingo lesson a day.
 - [x] Apply for a job.
 
 ### Backlog: Side Projects :)
