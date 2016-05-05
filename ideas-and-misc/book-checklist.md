@@ -1,13 +1,17 @@
 # Books I've Read & Want to Read
 
+## May 2016
+
+- [x] Watership Down
+- [ ] YDKJS This & Object Prototypes
+- [ ] CSS Secrets
+- [ ] Sorcerer's Apprentice
+- [ ] Kingbird Highway
+
 ## April 2016
 
 - [x] YDKJS Scope & Closures
 - [x] 1984
-- [ ] Watership Down
-- [ ] YDKJS This & Object Prototypes
-- [ ] CSS Secrets
-- [ ] Sorcerer's Spprentice
 
 ## March 2016
 
@@ -21,7 +25,7 @@ Swiss Family Robinson
 Shadows of Self  
 The Bands of Mourning  
 Forge of Darkness  
-More Diskworld Books  
+More Discworld Books  
 Blood and Bone  
 Assail  
 Malazan Book of The Fallen re-read #3  
@@ -30,4 +34,22 @@ The Black Company
 Ready Player One
 Watership Down
 All of YDKJS
-Kingbird Highway
+100 years of solitude
+Leaves of Grass
+In Cold Blood
+Citizen
+The Leopard
+Moby Dick
+The Handmaid's Tale
+The warmth of Other Suns
+Bastard Out of Carolina
+Deliverance
+The Grapes of Wrath
+Hell's Angels
+The Killer Angels
+One Flew Over the Cuckoo's Nest
+Master and Commander
+The Spy Who Came In From the Cold
+The Right Stuff
+The Great Bridge
+Underworld

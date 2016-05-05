@@ -16,23 +16,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # May 1, 2016
 
-### This Week's Goal: Get out more!
+### This Week's Goal: Nature Photography/ Drawing site.
 
 ## Things I'll Do This Week:
 
-- [ ] Do some bird drawings
-- [ ] Put bird calls on my phone
+- [x] Do some bird drawings
+- [x] Put bird calls on my phone
 - [ ] Go to the gym.
-- [ ] Go birding.
-- [ ] Take a walk.
-- [ ] Movie from our list.
-- [ ] 1 Chapter from YDKJS.
-- [ ] Section from CSS Secrets everyday.
-- [ ] Put CSS Secrets in Dropbox
-- [ ] Play music.
+- [x] Go birding.
+- [x] Take a walk.
+- [x] Movie from our list.
+- [x] 1 Chapter from YDKJS.
+- [x] Put CSS Secrets in Dropbox
+- [x] Play music.
 - [ ] Planks everyday.
-- [ ] Photo site: redo lightbox.
-- [ ] Photo site: Correct categories.
+- [x] Photo site: redo lightbox.
+- [x] Photo site: Correct categories.
+- [x] Finish painting for nephew.
 - [ ] Draw everyday.
 
 ### Things I'll Do This Month: April 2016
