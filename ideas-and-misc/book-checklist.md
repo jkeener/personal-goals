@@ -6,7 +6,8 @@
 - [ ] YDKJS This & Object Prototypes
 - [ ] CSS Secrets
 - [ ] Sorcerer's Apprentice
-- [ ] Kingbird Highway
+- [x] Kingbird Highway
+- [ ] The Ghost with Trembling Wings
 
 ## April 2016
 

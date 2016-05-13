@@ -1,30 +1,30 @@
 ### Sunday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] Draw.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] Draw.
 
 ### Monday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] Draw.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] Draw.
 
 ### Tuesday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] Draw.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] Draw.
 
 ### Wednesday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] Draw.
+- [ ] Plank.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] Draw.
 
 ### Thursday
 
