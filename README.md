@@ -14,35 +14,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. Have fun.
 8. Go birding a lot.
 
-# May 1, 2016
+# May 15, 2016
 
-### This Week's Goal: Nature Photography/ Drawing site.
+### This Week's Goal: Wordpress
 
 ## Things I'll Do This Week:
 
-- [x] Do some bird drawings
-- [x] Put bird calls on my phone
+- [ ] Look at photo tour websites for inspiration. 
+- [ ] Find Wordpress articles to read. 
+- [ ] Read Headway FAQ.
+- [ ] Finish Wordpess artilce on smashing.
+- [ ] Talk to Kevin.
+- [ ] Sweep porch.
+- [ ] Make coffee cake. 
 - [ ] Go to the gym.
-- [x] Go birding.
-- [x] Take a walk.
-- [x] Movie from our list.
-- [x] 1 Chapter from YDKJS.
-- [x] Put CSS Secrets in Dropbox
-- [x] Play music.
+- [ ] Go birding.
+- [ ] Take a walk.
+- [ ] Movie from our list.
+- [ ] Play music.
 - [ ] Planks everyday.
-- [x] Photo site: redo lightbox.
-- [x] Photo site: Correct categories.
-- [x] Finish painting for nephew.
-- [ ] Draw everyday.
+- [ ] CSS Secrets section everyday.
+- [ ] Add 'General' section to the photo website.  
 
 ### Things I'll Do This Month: April 2016
 
-- [ ] Read a book.
-- [ ] Go to the at least gym once a week. 0/4
-- [ ] Take a walk with Alaina at least once a week. 0/4
+- [x] Read a book.
+- [ ] Go to the at least gym once a week. 2/4
+- [ ] Take a walk with Alaina at least once a week. 2/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.
-- [ ] Go birding once a week. 0/4
+- [ ] Go birding once a week. 2/4
 
 ### Backlog: Side Projects :)
 

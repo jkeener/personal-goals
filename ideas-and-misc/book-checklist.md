@@ -8,6 +8,7 @@
 - [ ] Sorcerer's Apprentice
 - [x] Kingbird Highway
 - [ ] The Ghost with Trembling Wings
+- [ ] Advanced Birding
 
 ## April 2016
 
