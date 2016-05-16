@@ -2,17 +2,17 @@
 
 - [ ] Plank.
 - [x] Make the bed.
-- [ ] Duolingo.
+- [x] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Monday
 
 - [ ] Plank.
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Tuesday
 

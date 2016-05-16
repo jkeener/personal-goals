@@ -20,6 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
+- [ ] Learn flycatcher calls.
 - [ ] Look at photo tour websites for inspiration. 
 - [ ] Find Wordpress articles to read. 
 - [ ] Read Headway FAQ.
