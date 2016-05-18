@@ -21,12 +21,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Learn flycatcher calls.
-- [ ] Look at photo tour websites for inspiration. 
-- [ ] Find Wordpress articles to read. 
-- [ ] Read Headway FAQ.
-- [ ] Finish Wordpess artilce on smashing.
-- [ ] Talk to Kevin.
-- [ ] Sweep porch.
+- [x] Look at photo tour websites for inspiration. 
+- [x] Find Wordpress articles to read. 
+- [x] Read Headway FAQ.
+- [x] Finish Wordpess artilce on smashing.
+- [x] Talk to Kevin.
+- [x] Sweep porch.
 - [ ] Make coffee cake. 
 - [ ] Go to the gym.
 - [ ] Go birding.
