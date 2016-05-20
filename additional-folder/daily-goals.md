@@ -24,24 +24,24 @@
 
 ### Wednesday
 
-- [ ] Plank.
+- [x] Plank.
 - [x] Make the bed.
 - [x] Duolingo.
-- [ ] 10/10
+- [x] 10/10
 - [x] CSS Secrets
 
 ### Thursday
 
-- [ ] Plank.
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Plank.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Friday
 
 - [ ] Plank.
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] CSS Secrets

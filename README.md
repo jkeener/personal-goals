@@ -28,11 +28,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Talk to Kevin.
 - [x] Sweep porch.
 - [ ] Make coffee cake. 
-- [ ] Go to the gym.
+- [x] Go to the gym.
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
-- [ ] Play music.
+- [x] Play music.
 - [ ] Planks everyday.
 - [ ] CSS Secrets section everyday.
 - [ ] Add 'General' section to the photo website.  
