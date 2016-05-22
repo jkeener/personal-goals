@@ -14,37 +14,35 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. Have fun.
 8. Go birding a lot.
 
-# May 15, 2016
+# May 22, 2016
 
 ### This Week's Goal: Wordpress
 
 ## Things I'll Do This Week:
 
-- [ ] Learn flycatcher calls.
-- [x] Look at photo tour websites for inspiration. 
-- [x] Find Wordpress articles to read. 
-- [x] Read Headway FAQ.
-- [x] Finish Wordpess artilce on smashing.
-- [x] Talk to Kevin.
-- [x] Sweep porch.
-- [ ] Make coffee cake. 
-- [x] Go to the gym.
+- [ ] Make sure I have flycatcher calls 100%.
+- [ ] Hang up Alaina's jewlery thing.
+- [ ] Scour the Headway theme builder website for info.
+- [ ] Learn all I can about Headway.
+- [ ] Finish lynda.com's wordpress essentials.
+- [ ] Look on lynda for more wordpress stuff.
+- [ ] Refine/fix Mockups.
+- [ ] Have a fun visit with my dad.
+- [ ] Go to the gym twice.
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
-- [x] Play music.
-- [ ] Planks everyday.
-- [ ] CSS Secrets section everyday.
-- [ ] Add 'General' section to the photo website.  
+- [ ] Play music.
+- [ ] CSS Secrets section everyday. 
 
-### Things I'll Do This Month: April 2016
+### Things I'll Do This Month: May 2016
 
 - [x] Read a book.
-- [ ] Go to the at least gym once a week. 2/4
-- [ ] Take a walk with Alaina at least once a week. 2/4
+- [ ] Go to the at least gym once a week. 3/4
+- [ ] Take a walk with Alaina at least once a week. 3/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.
-- [ ] Go birding once a week. 2/4
+- [ ] Go birding once a week. 3/4
 
 ### Backlog: Side Projects :)
 

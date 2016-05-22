@@ -1,54 +1,47 @@
 ### Sunday
 
-- [ ] Plank.
 - [x] Make the bed.
-- [x] Duolingo.
+- [ ] Duolingo.
 - [ ] 10/10
-- [x] CSS Secrets
+- [ ] CSS Secrets
 
 ### Monday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Tuesday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Wednesday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Thursday
 
-- [x] Plank.
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Friday
 
-- [ ] Plank.
-- [x] Make the bed.
+- [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] CSS Secrets
 
 ### Saturday
 
-- [ ] Plank.
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] CSS Secrets
