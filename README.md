@@ -28,7 +28,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Look on lynda for more wordpress stuff.
 - [ ] Refine/fix Mockups.
 - [ ] Have a fun visit with my dad.
-- [ ] Go to the gym twice.
+- [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
@@ -38,7 +38,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: May 2016
 
 - [x] Read a book.
-- [ ] Go to the at least gym once a week. 3/4
+- [x] Go to the at least gym once a week. 4/4
 - [ ] Take a walk with Alaina at least once a week. 3/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.

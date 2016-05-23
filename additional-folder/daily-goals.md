@@ -1,16 +1,16 @@
 ### Sunday
 
 - [x] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Monday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Tuesday
 
