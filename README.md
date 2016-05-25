@@ -21,28 +21,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Make sure I have flycatcher calls 100%.
-- [ ] Hang up Alaina's jewlery thing.
+- [x] Hang up Alaina's jewlery thing.
 - [ ] Scour the Headway theme builder website for info.
 - [ ] Learn all I can about Headway.
-- [ ] Finish lynda.com's wordpress essentials.
-- [ ] Look on lynda for more wordpress stuff.
+- [x] Finish lynda.com's wordpress essentials.
+- [x] Look on lynda for more wordpress stuff.
 - [ ] Refine/fix Mockups.
 - [ ] Have a fun visit with my dad.
 - [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
-- [ ] Play music.
+- [x] Play music.
 - [ ] CSS Secrets section everyday. 
 
 ### Things I'll Do This Month: May 2016
 
 - [x] Read a book.
-- [x] Go to the at least gym once a week. 4/4
-- [ ] Take a walk with Alaina at least once a week. 3/4
+- [ ] Go to the at least gym once a week. 4/5
+- [ ] Take a walk with Alaina at least once a week. 4/5
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.
-- [ ] Go birding once a week. 3/4
+- [ ] Go birding once a week. 4/5
 
 ### Backlog: Side Projects :)
 

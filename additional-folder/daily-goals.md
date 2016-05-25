@@ -8,23 +8,23 @@
 ### Monday
 
 - [x] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Duolingo.
+- [x] 10/10
 - [x] CSS Secrets
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Wednesday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Thursday
 
