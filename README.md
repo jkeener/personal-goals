@@ -22,15 +22,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Make sure I have flycatcher calls 100%.
 - [x] Hang up Alaina's jewlery thing.
-- [ ] Scour the Headway theme builder website for info.
+- [x] Scour the Headway theme builder website for info.
 - [ ] Learn all I can about Headway.
 - [x] Finish lynda.com's wordpress essentials.
 - [x] Look on lynda for more wordpress stuff.
 - [ ] Refine/fix Mockups.
-- [ ] Have a fun visit with my dad.
+- [x] Have a fun visit with my dad.
 - [ ] Go to the gym twice. 1/2
-- [ ] Go birding.
-- [ ] Take a walk.
+- [x] Go birding.
+- [x] Take a walk.
 - [ ] Movie from our list.
 - [x] Play music.
 - [ ] CSS Secrets section everyday. 

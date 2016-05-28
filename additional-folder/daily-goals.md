@@ -22,23 +22,23 @@
 ### Wednesday
 
 - [x] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Duolingo.
+- [x] 10/10
 - [x] CSS Secrets
 
 ### Thursday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Friday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
+- [x] Make the bed.
+- [x] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Saturday
 
