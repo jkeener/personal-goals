@@ -1,48 +1,48 @@
 ### Sunday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
+- (Alaina makes the bed on the weekend)
 
 ### Monday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Tuesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Wednesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Thursday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] CSS Secrets
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] CSS Secrets
 
 ### Friday
 
-- [x] Make the bed.
-- [x] Duolingo.
+- [ ] Make the bed.
+- [ ] Duolingo.
 - [ ] 10/10
-- [x] CSS Secrets
+- [ ] CSS Secrets
 
 ### Saturday
 
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] CSS Secrets
-- (Alaina makes the bed on Saturdays)
+- (Alaina makes the bed on the weekend)

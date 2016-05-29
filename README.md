@@ -14,26 +14,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. Have fun.
 8. Go birding a lot.
 
-# May 22, 2016
+# May 29, 2016
 
-### This Week's Goal: Wordpress
+### This Week's Goal: Set up site and finish the frontpage
 
 ## Things I'll Do This Week:
 
-- [ ] Make sure I have flycatcher calls 100%.
-- [x] Hang up Alaina's jewlery thing.
-- [x] Scour the Headway theme builder website for info.
-- [ ] Learn all I can about Headway.
-- [x] Finish lynda.com's wordpress essentials.
-- [x] Look on lynda for more wordpress stuff.
-- [ ] Refine/fix Mockups.
-- [x] Have a fun visit with my dad.
-- [ ] Go to the gym twice. 1/2
-- [x] Go birding.
-- [x] Take a walk.
+- [ ] Build the static frontpage.
+- [ ] Figure out how to edit the custom post type.
+- [ ] Set up pages for site.
+- [ ] Go to the gym twice. 0/2
+- [ ] Go birding.
+- [ ] Take a walk.
 - [ ] Movie from our list.
-- [x] Play music.
-- [ ] CSS Secrets section everyday. 
+- [ ] Play piano/melodica.
+- [ ] CSS Secrets section everyday.
 
 ### Things I'll Do This Month: May 2016
 
