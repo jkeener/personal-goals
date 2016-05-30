@@ -1,8 +1,8 @@
 ### Sunday
 
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 - (Alaina makes the bed on the weekend)
 
 ### Monday

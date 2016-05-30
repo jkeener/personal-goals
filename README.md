@@ -20,10 +20,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
+- [ ] Look for new recipes.
 - [ ] Build the static frontpage.
 - [ ] Figure out how to edit the custom post type.
 - [ ] Set up pages for site.
-- [ ] Go to the gym twice. 0/2
+- [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
@@ -33,7 +34,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: May 2016
 
 - [x] Read a book.
-- [ ] Go to the at least gym once a week. 4/5
+- [x] Go to the at least gym once a week. 5/5
 - [ ] Take a walk with Alaina at least once a week. 4/5
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.
