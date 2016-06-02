@@ -26,8 +26,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Set up pages for site.
 - [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
-- [ ] Take a walk.
-- [ ] Movie from our list.
+- [x] Take a walk.
+- [x] Movie from our list.
 - [ ] Play piano/melodica.
 - [ ] CSS Secrets section everyday.
 
@@ -35,7 +35,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Read a book.
 - [x] Go to the at least gym once a week. 5/5
-- [ ] Take a walk with Alaina at least once a week. 4/5
+- [x] Take a walk with Alaina at least once a week. 5/5
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Launch the photo site.
 - [ ] Go birding once a week. 4/5

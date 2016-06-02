@@ -7,24 +7,21 @@
 
 ### Monday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+#My Birthday...I'm doing nuttin
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Wednesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Thursday
 

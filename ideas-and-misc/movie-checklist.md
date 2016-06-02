@@ -15,3 +15,5 @@
 - Stanley Kubrick a Life in Pictures
 - Watership Down
 - The Big Year
+- Gimme Shelter
+- City of God
