@@ -6,6 +6,7 @@ Personal goals made open source.
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
+
 1. Contribute to Open Source.
 3. Use Twitter more.
 4. Get better at JS.
@@ -13,34 +14,40 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind.
 7. Have fun.
 8. Go birding a lot.
+9. Do more art
 
-# May 29, 2016
+# June 5, 2016
 
-### This Week's Goal: Set up site and finish the frontpage
+### This Week's Goal: Front Page
 
 ## Things I'll Do This Week:
 
-- [ ] Look for new recipes.
-- [ ] Build the static frontpage.
-- [ ] Figure out how to edit the custom post type.
-- [ ] Set up pages for site.
-- [ ] Go to the gym twice. 1/2
+- [ ] Make custom menu for social links.
+- [ ] Make the Header.
+- [ ] Fix the logo.
+- [ ] Look up creating the custom search (should be a custom menu?).
+- [ ] Make posts for 2 of the leaders as a fill in.
+- [ ] Fix custom post type: Tours.
+- [ ] Paint a bird or two.
+- [ ] Hang up a picture. 
+- [ ] Go to the gym twice. 0/2
 - [ ] Go birding.
-- [x] Take a walk.
-- [x] Movie from our list.
+- [ ] Take a walk.
+- [ ] Movie from our list.
 - [ ] Play piano/melodica.
 - [ ] CSS Secrets section everyday.
 
-### Things I'll Do This Month: May 2016
+### Things I'll Do This Month: June 2016
 
-- [x] Read a book.
-- [x] Go to the at least gym once a week. 5/5
-- [x] Take a walk with Alaina at least once a week. 5/5
+- [ ] Finish website.
+- [ ] Get Paid.
+- [ ] Read a book.
+- [ ] Go to the at least gym twice a week. 0/8
+- [ ] Take a walk with Alaina at least once a week. 0/4
 - [ ] Do at least one DuoLingo lesson a day.
-- [ ] Launch the photo site.
-- [ ] Go birding once a week. 4/5
+- [ ] Go birding once a week. 0/4
 
-### Backlog: Side Projects :)
+### Backlog: Side Projects:
 
 - [ ] Change one page portfolio into a photography site.
 - [ ] Silly parks and rec idea I had.

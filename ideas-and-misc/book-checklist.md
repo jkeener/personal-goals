@@ -1,14 +1,18 @@
 # Books I've Read & Want to Read
 
-## May 2016
+## June 2016
 
-- [x] Watership Down
 - [ ] YDKJS This & Object Prototypes
 - [ ] CSS Secrets
 - [ ] Sorcerer's Apprentice
-- [x] Kingbird Highway
-- [ ] The Ghost with Trembling Wings
 - [ ] Advanced Birding
+- [ ] The Leopard
+
+## May 2016
+
+- [x] Watership Down
+- [x] Kingbird Highway
+- [x] The Ghost with Trembling Wings
 
 ## April 2016
 
@@ -40,7 +44,6 @@ All of YDKJS
 Leaves of Grass
 In Cold Blood
 Citizen
-The Leopard
 Moby Dick
 The Handmaid's Tale
 The warmth of Other Suns
