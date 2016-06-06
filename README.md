@@ -22,6 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
+- [ ] Learn some warbler calls.
 - [ ] Make custom menu for social links.
 - [ ] Make the Header.
 - [ ] Fix the logo.
@@ -30,7 +31,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Fix custom post type: Tours.
 - [ ] Paint a bird or two.
 - [ ] Hang up a picture. 
-- [ ] Go to the gym twice. 0/2
+- [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
@@ -42,7 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish website.
 - [ ] Get Paid.
 - [ ] Read a book.
-- [ ] Go to the at least gym twice a week. 0/8
+- [ ] Go to the at least gym twice a week. 1/8
 - [ ] Take a walk with Alaina at least once a week. 0/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Go birding once a week. 0/4
