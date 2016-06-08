@@ -23,13 +23,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Learn some warbler calls.
-- [ ] Make custom menu for social links.
-- [ ] Make the Header.
-- [ ] Fix the logo.
+- [x] Make custom menu for social links.
+- [x] Make the Header.
+- [x] Fix the logo.
 - [ ] Look up creating the custom search (should be a custom menu?).
-- [ ] Make posts for 2 of the leaders as a fill in.
-- [ ] Fix custom post type: Tours.
-- [ ] Paint a bird or two.
+- [x] Make posts for 2 of the leaders as a fill in.
+- [x] Fix custom post type: Tours.
+- [x] Paint a bird or two.
 - [ ] Hang up a picture. 
 - [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
@@ -41,7 +41,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: June 2016
 
 - [ ] Finish website.
-- [ ] Get Paid.
+- [ ] Get paid.
 - [ ] Read a book.
 - [ ] Go to the at least gym twice a week. 1/8
 - [ ] Take a walk with Alaina at least once a week. 0/4

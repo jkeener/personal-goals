@@ -2,29 +2,29 @@
 
 - [x] Make the bed.
 - [x] Duolingo.
-- [ ] 10/10
+- [x] 10/10
 - [x] CSS Secrets
 
 ### Monday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] CSS Secrets
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] CSS Secrets
 
 ### Wednesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
+- [x] Make the bed.
+- [x] Duolingo.
 - [ ] 10/10
-- [ ] CSS Secrets
+- [x] CSS Secrets
 
 ### Thursday
 
