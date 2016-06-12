@@ -6,7 +6,7 @@
 - [ ] CSS Secrets
 - [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
-- [ ] The Leopard
+- [x] The Leopard
 
 ## May 2016
 
@@ -38,7 +38,6 @@ Malazan Book of The Fallen re-read #3
 Finish The Wheel of Time
 The Black Company
 Ready Player One
-Watership Down
 All of YDKJS
 100 years of solitude
 Leaves of Grass

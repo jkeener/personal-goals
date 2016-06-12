@@ -22,31 +22,31 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Learn some warbler calls.
+- [x] Learn some warbler calls.
 - [x] Make custom menu for social links.
 - [x] Make the Header.
 - [x] Fix the logo.
-- [ ] Look up creating the custom search (should be a custom menu?).
+- [x] Look up creating the custom search (should be a custom menu?).
 - [x] Make posts for 2 of the leaders as a fill in.
 - [x] Fix custom post type: Tours.
 - [x] Paint a bird or two.
-- [ ] Hang up a picture. 
-- [ ] Go to the gym twice. 1/2
-- [ ] Go birding.
-- [ ] Take a walk.
-- [ ] Movie from our list.
-- [ ] Play piano/melodica.
-- [ ] CSS Secrets section everyday.
+- [x] Hang up a picture. 
+- [x] Go to the gym twice. 2/2
+- [x] Go birding.
+- [x] Take a walk.
+- [x] Movie from our list.
+- [x] Play piano/melodica.
+- [x] CSS Secrets section everyday.
 
 ### Things I'll Do This Month: June 2016
 
 - [ ] Finish website.
 - [ ] Get paid.
-- [ ] Read a book.
-- [ ] Go to the at least gym twice a week. 1/8
-- [ ] Take a walk with Alaina at least once a week. 0/4
+- [x] Read a book.
+- [ ] Go to the at least gym twice a week. 2/8
+- [ ] Take a walk with Alaina at least once a week. 1/4
 - [ ] Do at least one DuoLingo lesson a day.
-- [ ] Go birding once a week. 0/4
+- [ ] Go birding once a week. 1/4
 
 ### Backlog: Side Projects:
 
