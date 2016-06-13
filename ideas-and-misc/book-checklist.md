@@ -3,7 +3,7 @@
 ## June 2016
 
 - [ ] YDKJS This & Object Prototypes
-- [ ] CSS Secrets
+- [x] CSS Secrets
 - [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
 - [x] The Leopard
@@ -58,3 +58,4 @@ The Right Stuff
 The Great Bridge
 Underworld
 City of God
+The Color Purple

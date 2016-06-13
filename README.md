@@ -22,19 +22,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Put away art box.
+- [x] Put away art box.
 - [ ] Make custom menus.
 - [ ] Make section with tour types.
 - [ ] Make sure footer is on other pages.
-- [ ] Finish adding tour leader pages.
+- [x] Finish adding tour leader pages.
 - [ ] Work on css for front page. 
 - [x] Organize personal-goals accomplishments into folders.
-- [ ] Go to the gym twice. 2/2
+- [ ] Go to the gym twice. 0/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
-- [ ] Finish CSS Secrets.
-- [ ] Don't turn on TV until noon.
+- [x] Finish CSS Secrets.
+- [ ] Don't turn on TV until noon (weekdays).
 
 ### Things I'll Do This Month: June 2016
 
