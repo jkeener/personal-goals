@@ -16,27 +16,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Go birding a lot.
 9. Do more art
 
-# June 5, 2016
+# June 12, 2016
 
-### This Week's Goal: Front Page
+### This Week's Goal: Finish Front Page
 
 ## Things I'll Do This Week:
 
-- [x] Learn some warbler calls.
-- [x] Make custom menu for social links.
-- [x] Make the Header.
-- [x] Fix the logo.
-- [x] Look up creating the custom search (should be a custom menu?).
-- [x] Make posts for 2 of the leaders as a fill in.
-- [x] Fix custom post type: Tours.
-- [x] Paint a bird or two.
-- [x] Hang up a picture. 
-- [x] Go to the gym twice. 2/2
-- [x] Go birding.
-- [x] Take a walk.
-- [x] Movie from our list.
-- [x] Play piano/melodica.
-- [x] CSS Secrets section everyday.
+- [ ] Put away art box.
+- [ ] Make custom menus.
+- [ ] Make section with tour types.
+- [ ] Make sure footer is on other pages.
+- [ ] Finish adding tour leader pages.
+- [ ] Work on css for front page. 
+- [x] Organize personal-goals accomplishments into folders.
+- [ ] Go to the gym twice. 2/2
+- [ ] Go birding.
+- [ ] Take a walk.
+- [ ] Movie from our list.
+- [ ] Finish CSS Secrets.
+- [ ] Don't turn on TV until noon.
 
 ### Things I'll Do This Month: June 2016
 

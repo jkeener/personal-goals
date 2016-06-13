@@ -3,6 +3,7 @@
 ## June 2016
 
 - Cry-Baby
+- Beauty and the Beast (1946)
 
 ## May 2016
 

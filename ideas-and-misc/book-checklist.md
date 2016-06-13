@@ -7,6 +7,7 @@
 - [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
 - [x] The Leopard
+- [ ] 100 Years of Solitude
 
 ## May 2016
 
@@ -39,7 +40,6 @@ Finish The Wheel of Time
 The Black Company
 Ready Player One
 All of YDKJS
-100 years of solitude
 Leaves of Grass
 In Cold Blood
 Citizen
