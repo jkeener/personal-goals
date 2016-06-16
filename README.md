@@ -24,12 +24,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Put away art box.
 - [ ] Make custom menus.
-- [ ] Make section with tour types.
-- [ ] Make sure footer is on other pages.
+- [x] Make section with tour types.
+- [x] Make sure footer is on other pages.
 - [x] Finish adding tour leader pages.
 - [ ] Work on css for front page. 
 - [x] Organize personal-goals accomplishments into folders.
-- [ ] Go to the gym twice. 0/2
+- [ ] Go to the gym twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Movie from our list.
@@ -41,7 +41,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish website.
 - [ ] Get paid.
 - [x] Read a book.
-- [ ] Go to the at least gym twice a week. 2/8
+- [ ] Go to the at least gym twice a week. 3/8
 - [ ] Take a walk with Alaina at least once a week. 1/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Go birding once a week. 1/4
