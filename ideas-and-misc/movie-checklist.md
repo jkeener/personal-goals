@@ -4,13 +4,20 @@
 
 - Cry-Baby
 - Beauty and the Beast (1946)
+- Takedown: The DNA of GSP
+- Jurassic Park
+- Jurassic Park: The Lost Wrold
+- Jurrasic Park 3
+- Jurassic World
+- The Little Mermaid
+- Beauty and the Beast
 
 ## May 2016
 
 - The Rules of the Game
 - The Shop Around the Corner
-- X-men Apocalypse
 - Captain America: Civil War
+- X-men Apocalypse
 - Mad Max
 - RoboCop
 - MI:3

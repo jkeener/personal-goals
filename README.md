@@ -7,33 +7,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # Overarching Goals
 
-1. Contribute to Open Source.
-3. Use Twitter more.
-4. Get better at JS.
-5. Exercise more.
-6. Be kind.
-7. Have fun.
-8. Go birding a lot.
-9. Do more art
+1. Get better at JS.
+2. Exercise more.
+3. Be kind.
+4. Have fun.
+5. Go birding a lot.
+6. Do more art
 
-# June 12, 2016
+# June 19, 2016
 
 ### This Week's Goal: Finish Front Page
 
 ## Things I'll Do This Week:
 
-- [x] Put away art box.
-- [ ] Make custom menus.
-- [x] Make section with tour types.
-- [x] Make sure footer is on other pages.
-- [x] Finish adding tour leader pages.
-- [ ] Work on css for front page. 
-- [x] Organize personal-goals accomplishments into folders.
-- [ ] Go to the gym twice. 1/2
+- [ ] Finish css for front page.
+- [ ] Figure out how to get custom meta to show as content.
+- [ ] Read  up on how to set up content for architect tabs.
+- [ ] Go to the gym twice. 0/2
+- [ ] Do ab workout at least twice. 0/2
 - [ ] Go birding.
 - [ ] Take a walk.
-- [ ] Movie from our list.
-- [x] Finish CSS Secrets.
 - [ ] Don't turn on TV until noon (weekdays).
 
 ### Things I'll Do This Month: June 2016
@@ -41,10 +34,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish website.
 - [ ] Get paid.
 - [x] Read a book.
-- [ ] Go to the at least gym twice a week. 3/8
-- [ ] Take a walk with Alaina at least once a week. 1/4
+- [ ] Go to the at least gym twice a week. 4/8
+- [ ] Take a walk with Alaina at least once a week. 2/4
 - [ ] Do at least one DuoLingo lesson a day.
-- [ ] Go birding once a week. 1/4
+- [ ] Go birding once a week. 2/4
 
 ### Backlog: Side Projects:
 

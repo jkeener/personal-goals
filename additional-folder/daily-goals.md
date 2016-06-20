@@ -1,33 +1,30 @@
 ### Sunday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Pushups.
+#### Big night, I slept all day!
 
 ### Monday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Plank.
-- [x] Don't turn on TV until noon.
+- [n/a] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Pushups.
+- [ ] Don't turn on TV until noon.
 
 ### Tuesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Pushups.
-- [x] Don't turn on TV until noon.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Pushups.
+- [ ] Don't turn on TV until noon.
 
 ### Wednesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Plank.
-- [x] Don't turn on TV until noon.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Pushups.
+- [ ] Don't turn on TV until noon.
 
 ### Thursday
 
@@ -42,7 +39,7 @@
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Plank.
+- [ ] Pushups.
 - [ ] Don't turn on TV until noon.
 
 ### Saturday
