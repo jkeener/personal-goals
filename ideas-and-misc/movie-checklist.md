@@ -11,6 +11,8 @@
 - Jurassic World
 - The Little Mermaid
 - Beauty and the Beast
+- Escape from LA
+- Hot Fuzz
 
 ## May 2016
 

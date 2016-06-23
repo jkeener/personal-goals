@@ -24,9 +24,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Figure out how to get custom meta to show as content.
 - [ ] Read  up on how to set up content for architect tabs.
 - [ ] Go to the gym twice. 0/2
-- [ ] Do ab workout at least twice. 0/2
+- [x] Do ab workout at least twice. 2/2
 - [ ] Go birding.
-- [ ] Take a walk.
+- [x] Take a walk.
 - [ ] Don't turn on TV until noon (weekdays).
 
 ### Things I'll Do This Month: June 2016
