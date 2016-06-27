@@ -14,30 +14,32 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# June 19, 2016
+# June 26, 2016
 
-### This Week's Goal: Finish Front Page
+### This Week's Goal: FINISH THE FRONT PAGE!!!!!!!
 
 ## Things I'll Do This Week:
 
-- [ ] Finish css for front page.
-- [ ] Figure out how to get custom meta to show as content.
-- [ ] Read  up on how to set up content for architect tabs.
-- [ ] Go to the gym twice. 0/2
-- [x] Do ab workout at least twice. 2/2
+- [ ] Finish the front page.
+- [ ] Sub titles for Architect blocks?
+- [ ] Look up setting up animations for architect.
+- [ ] Do ab workout at least twice. 0/2
 - [ ] Go birding.
-- [x] Take a walk.
+- [ ] Take a walk.
 - [ ] Don't turn on TV until noon (weekdays).
+- [ ] Go to the gym 3 times.
+- [ ] Get my ass in gear.
+- [ ] Make bread.
 
 ### Things I'll Do This Month: June 2016
 
 - [ ] Finish website.
-- [ ] Get paid.
+- [x] Get paid.
 - [x] Read a book.
-- [ ] Go to the at least gym twice a week. 4/8
-- [ ] Take a walk with Alaina at least once a week. 2/4
+- [ ] Go to the at least gym twice a week. 5/8
+- [ ] Take a walk with Alaina at least once a week. 3/4
 - [ ] Do at least one DuoLingo lesson a day.
-- [ ] Go birding once a week. 2/4
+- [ ] Go birding once a week. 3/4
 
 ### Backlog: Side Projects:
 

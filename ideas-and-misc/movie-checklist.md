@@ -6,13 +6,16 @@
 - Beauty and the Beast (1946)
 - Takedown: The DNA of GSP
 - Jurassic Park
-- Jurassic Park: The Lost Wrold
-- Jurrasic Park 3
+- Jurassic Park: The Lost World
+- Jurassic Park 3
 - Jurassic World
 - The Little Mermaid
 - Beauty and the Beast
 - Escape from LA
 - Hot Fuzz
+- Who Framed Roger Rabbit
+- 2 Fast 2 Furious 
+- Finding Dory
 
 ## May 2016
 
