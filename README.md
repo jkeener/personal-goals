@@ -21,13 +21,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Finish the front page.
-- [ ] Sub titles for Architect blocks?
-- [ ] Look up setting up animations for architect.
-- [ ] Do ab workout at least twice. 0/2
+- [x] Sub titles for Architect blocks?
+- [x] Look up setting up animations for architect.
+- [ ] Do ab workout at least twice. 1/2
 - [ ] Go birding.
 - [ ] Take a walk.
 - [ ] Don't turn on TV until noon (weekdays).
-- [ ] Go to the gym 3 times.
+- [ ] Go to the gym 3 times. 2/3
 - [ ] Get my ass in gear.
 - [ ] Make bread.
 
@@ -36,7 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish website.
 - [x] Get paid.
 - [x] Read a book.
-- [ ] Go to the at least gym twice a week. 5/8
+- [ ] Go to the at least gym twice a week. 7/8
 - [ ] Take a walk with Alaina at least once a week. 3/4
 - [ ] Do at least one DuoLingo lesson a day.
 - [ ] Go birding once a week. 3/4

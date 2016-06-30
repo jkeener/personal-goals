@@ -16,6 +16,8 @@
 - Who Framed Roger Rabbit
 - 2 Fast 2 Furious 
 - Finding Dory
+- Independence Day Resurgence
+- Oceans 13
 
 ## May 2016
 
