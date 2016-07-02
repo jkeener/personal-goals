@@ -20,15 +20,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Finish the front page.
+- [x] Finish the front page.
 - [x] Sub titles for Architect blocks?
 - [x] Look up setting up animations for architect.
-- [ ] Do ab workout at least twice. 1/2
+- [x] Do ab workout at least twice. 2/2
 - [ ] Go birding.
-- [ ] Take a walk.
-- [ ] Don't turn on TV until noon (weekdays).
-- [ ] Go to the gym 3 times. 2/3
-- [ ] Get my ass in gear.
+- [x] Take a walk.
+- [x] Don't turn on TV until noon (weekdays).
+- [x] Go to the gym 3 times. 3/3
+- [x] Get my ass in gear.
 - [ ] Make bread.
 
 ### Things I'll Do This Month: June 2016

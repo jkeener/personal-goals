@@ -19,23 +19,23 @@
 ### Wednesday
 
 - [x] Make the bed.
-- [ ] Duolingo.
+- [x] Duolingo.
 - [x] 10/10
 - [x] Don't turn on TV until noon.
 
 ### Thursday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Don't turn on TV until noon.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Don't turn on TV until noon.
 
 ### Friday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
+- [x] Make the bed.
+- [x] Duolingo.
 - [ ] 10/10
-- [ ] Don't turn on TV until noon.
+- [x] Don't turn on TV until noon.
 
 ### Saturday
 

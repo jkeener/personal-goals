@@ -18,6 +18,7 @@
 - Finding Dory
 - Independence Day Resurgence
 - Oceans 13
+- The Martian
 
 ## May 2016
 
