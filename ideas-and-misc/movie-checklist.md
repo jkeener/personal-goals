@@ -1,5 +1,10 @@
 # Movies I've watched
 
+## July 2016
+
+- Back to the Future
+- Spotlight
+
 ## June 2016
 
 - Cry-Baby
@@ -20,7 +25,6 @@
 - Oceans 13
 - The Martian
 - Say Anything
-- Back to the Future
 
 ## May 2016
 
