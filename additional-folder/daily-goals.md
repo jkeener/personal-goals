@@ -9,7 +9,6 @@
 - [x] Duolingo.
 - [x] 10/10
 - [x] Don't turn on TV until noon.
-- [x] Gym.
 
 ### Tuesday
 
@@ -21,27 +20,27 @@
 
 ### Wednesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Don't turn on TV until noon.
-- [x] Gym.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Don't turn on TV until noon.
+- [ ] Gym.
 
 ### Thursday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Don't turn on TV until noon.
-- [x] Ab workout.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Don't turn on TV until noon.
+- [ ] Ab workout.
 
 ### Friday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Don't turn on TV until noon.
-- [x] Gym.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Don't turn on TV until noon.
+- [ ] Gym.
 
 ### Saturday
 

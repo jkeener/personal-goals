@@ -27,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Do BJJ (jiu jitsu) 3 times. 0/3
 - [ ] Do ab workout at least twice. 0/2
 - [ ] Take a walk.
-- [ ] Go to the gym 3 times. 0/3
+- [ ] Go to the gym 3 times. 1/3
 
 ### Things I'll Do This Month: June 2016
 

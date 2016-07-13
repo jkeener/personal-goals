@@ -4,6 +4,9 @@
 
 - Back to the Future
 - Spotlight
+- Hannibal Takes Edinburgh
+- Back to the Future 2
+- Back to the Future 3
 
 ## June 2016
 
