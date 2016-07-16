@@ -6,7 +6,7 @@
 - [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
 - [ ] 100 Years of Solitude
-- [ ] Jiu-jitsu Unleashed
+- [x] Jiu-jitsu Unleashed
 
 ## June
 

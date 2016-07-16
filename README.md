@@ -20,21 +20,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Remake mockup or Tour pages.
-- [ ] Figure out if I need widgets for tour pages.
+- [x] Remake mockup or Tour pages.
+- [x] Figure out if I need widgets for tour pages.
 - [ ] Build basic tour pages.
 - [ ] Clean microwave. 
-- [ ] Do BJJ (jiu jitsu) 3 times. 0/3
-- [ ] Do ab workout at least twice. 0/2
-- [ ] Take a walk.
-- [ ] Go to the gym 3 times. 1/3
+- [ ] Do BJJ (jiu jitsu) 3 times. 2/3
+- [ ] Do ab workout at least twice. 1/2
+- [x] Take a walk.
+- [ ] Go to the gym 3 times. 3/3
 
 ### Things I'll Do This Month: June 2016
 
 - [ ] Finish tour pages.
-- [ ] Read a book.
-- [ ] Go to the at least gym twice a week. 3/12
-- [ ] Take a walk with Alaina at least once a week. 1/4
+- [x] Read a book.
+- [ ] Go to the at least gym twice a week. 6/12
+- [ ] Take a walk with Alaina at least once a week. 2/4
 - [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:
