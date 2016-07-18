@@ -10,7 +10,6 @@
 - Malazan Book of The Fallen re-read #3  
 - Finish The Wheel of Time
 - The Black Company
-- Ready Player One
 - All of YDKJS
 - Leaves of Grass
 - In Cold Blood

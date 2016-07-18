@@ -5,8 +5,9 @@
 - [ ] YDKJS This & Object Prototypes
 - [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
-- [ ] 100 Years of Solitude
+- [x] 100 Years of Solitude
 - [x] Jiu-jitsu Unleashed
+- [x] Ready Player One
 
 ## June
 

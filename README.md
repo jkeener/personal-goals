@@ -14,20 +14,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# July 10, 2016
+# July 17, 2016
 
-### This Week's Goal: Tour Pages Mockup
+### This Week's Goal: Tour Pages
 
 ## Things I'll Do This Week:
 
-- [x] Remake mockup or Tour pages.
-- [x] Figure out if I need widgets for tour pages.
-- [ ] Build basic tour pages.
+- [ ] Experiment with tour pages layout.
+- [ ] Use the weekly steps file.
 - [ ] Clean microwave. 
-- [ ] Do BJJ (jiu jitsu) 3 times. 2/3
-- [ ] Do ab workout at least twice. 1/2
-- [x] Take a walk.
-- [ ] Go to the gym 3 times. 3/3
+- [ ] Do BJJ (jiu jitsu) 3 times. 0/3
+- [ ] Do ab workout at least twice. 0/2
+- [ ] Take a walk.
+- [ ] Go to the gym 3 times. 0/3
 
 ### Things I'll Do This Month: June 2016
 
