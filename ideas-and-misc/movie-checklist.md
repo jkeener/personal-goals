@@ -7,6 +7,11 @@
 - Hannibal Takes Edinburgh
 - Back to the Future 2
 - Back to the Future 3
+- Chronos
+- The Core
+- The Mummy
+- Sense and Sensibility
+- No Escape
 
 ## June 2016
 

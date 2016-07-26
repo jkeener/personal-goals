@@ -1,7 +1,7 @@
 ### Sunday
 
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Duolingo.
+- [x] 10/10
 
 ### Monday
 
@@ -9,7 +9,6 @@
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] Don't turn on TV until noon.
-- [ ] Gym.
 
 ### Tuesday
 

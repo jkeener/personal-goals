@@ -3,11 +3,15 @@
 ## July
 
 - [ ] YDKJS This & Object Prototypes
-- [ ] Sorcerer's Apprentice
 - [ ] Advanced Birding
+- [ ] Triggering Town
+- [ ] The Short Stories by Hemingway
+- [ ] The Road
 - [x] 100 Years of Solitude
 - [x] Jiu-jitsu Unleashed
 - [x] Ready Player One
+- [x] Sorcerer's Apprentice
+- [x] Armada
 
 ## June
 
