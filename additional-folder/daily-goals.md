@@ -5,17 +5,17 @@
 
 ### Monday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Don't turn on TV until noon.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Don't turn on TV until noon.
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Don't turn on TV until noon.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Don't turn on TV until noon.
 - [ ] Ab workout.
 
 ### Wednesday

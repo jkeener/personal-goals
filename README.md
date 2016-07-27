@@ -20,10 +20,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Send email to Kevin.
+- [x] Send email to Kevin.
 - [ ] See if I can still work on the site css for tour pages.
 - [ ] Do css for tour pages if possible.
-- [ ] Do BJJ 3 times. 0/3
+- [x] Make refried beans. 
+- [ ] Do BJJ 3 times. 1/3
 - [ ] Do ab workout at least twice. 0/2
 - [ ] Take a walk.
 - [ ] Go to the gym 2 times. 0/2
