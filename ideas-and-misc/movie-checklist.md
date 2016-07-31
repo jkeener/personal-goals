@@ -12,6 +12,10 @@
 - The Mummy
 - Sense and Sensibility
 - No Escape
+- Harry Potter and the Order of the Phoenix
+- Eternal Sunshine of the Spotless Mind
+- Ghostbusters
+- Spy
 
 ## June 2016
 

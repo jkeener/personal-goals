@@ -4,9 +4,10 @@
 
 - [ ] YDKJS This & Object Prototypes
 - [ ] Advanced Birding
-- [ ] Triggering Town
 - [ ] The Short Stories by Hemingway
-- [ ] The Road
+- [ ] Harry Potter and the Cursed Child
+- [x] Triggering Town
+- [x] The Road
 - [x] 100 Years of Solitude
 - [x] Jiu-jitsu Unleashed
 - [x] Ready Player One

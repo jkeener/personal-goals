@@ -16,7 +16,7 @@
 - Citizen
 - Moby Dick
 - The Handmaid's Tale
-- The warmth of Other Suns
+- The Warmth of Other Suns
 - Bastard Out of Carolina
 - Deliverance
 - The Grapes of Wrath
@@ -31,4 +31,3 @@
 - City of God
 - The Color Purple
 - The Peregrine
-- The Triggering Town

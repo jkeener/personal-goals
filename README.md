@@ -14,27 +14,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# July 24, 2016
+# July 31, 2016
 
-### This Week's Goal: Css for tour pages if possible. 
+### This Week's Goal: Css for tour pages. 
 
 ## Things I'll Do This Week:
 
-- [x] Send email to Kevin.
-- [ ] See if I can still work on the site css for tour pages.
-- [ ] Do css for tour pages if possible.
-- [x] Make refried beans. 
-- [ ] Do BJJ 3 times. 1/3
+- [ ] Work on css for Tour Pages. 
+- [ ] Make slider for Tour Pages.
+- [ ] Make bread.
+- [x] Cancel Fightpass.
+- [ ] Practice pack for Arizona. 
+- [ ] Do BJJ 3 times. 0/3
 - [ ] Do ab workout at least twice. 0/2
 - [ ] Take a walk.
 - [ ] Go to the gym 2 times. 0/2
 
-### Things I'll Do This Month: June 2016
+### Things I'll Do This Month: August 2016
 
 - [ ] Finish tour pages.
-- [x] Read a book.
-- [x] Go to the at least gym twice a week. 9/8
-- [ ] Take a walk with Alaina at least once a week. 3/4
+- [ ] Read a book.
+- [ ] Have fun in Arizona.
+- [ ] Have fun in Michigan.
+- [ ] Take a walk with Alaina at least 3 times. 0/3
 - [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:
