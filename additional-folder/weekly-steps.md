@@ -1,7 +1,7 @@
 ### Steps to complete my weakly goal
 
 - [ ] Css for Top section.
-- [ ] Make Gallery/Slider.
+- [x] Make Gallery/Slider.
 - [ ] Fix the Book now button
 - [ ] Css for About section.
 - [ ] Css for It section.

@@ -21,7 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Work on css for Tour Pages. 
-- [ ] Make slider for Tour Pages.
+- [x] Make slider for Tour Pages.
 - [ ] Make bread.
 - [x] Cancel Fightpass.
 - [ ] Practice pack for Arizona. 
@@ -33,7 +33,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: August 2016
 
 - [ ] Finish tour pages.
-- [ ] Read a book.
+- [x] Read a book.
 - [ ] Have fun in Arizona.
 - [ ] Have fun in Michigan.
 - [ ] Take a walk with Alaina at least 3 times. 0/3

@@ -1,23 +1,23 @@
 ### Sunday
 
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Duolingo.
+- [x] 10/10
 
 ### Monday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Don't turn on TV until noon.
-- [ ] Laundry
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Don't turn on TV until noon.
+- [x] Laundry
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
+- [x] Make the bed.
+- [x] Duolingo.
 - [ ] 10/10
-- [ ] Don't turn on TV until noon.
-- [ ] Ab workout.
+- [x] Don't turn on TV until noon.
+- [x] Ab workout.
 
 ### Wednesday
 

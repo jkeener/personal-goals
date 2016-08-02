@@ -16,6 +16,9 @@
 - Eternal Sunshine of the Spotless Mind
 - Ghostbusters
 - Spy
+- Clerks
+- Chasing Amy
+- Mallrats
 
 ## June 2016
 

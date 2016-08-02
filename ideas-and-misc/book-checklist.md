@@ -5,7 +5,8 @@
 - [ ] YDKJS This & Object Prototypes
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
-- [ ] Harry Potter and the Cursed Child
+- [ ] Death of a Salesman
+- [x] Harry Potter and the Cursed Child
 - [x] Triggering Town
 - [x] The Road
 - [x] 100 Years of Solitude
