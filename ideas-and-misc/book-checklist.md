@@ -1,12 +1,16 @@
 # Books I've read or am currently reading.
 
-## July
+## August
 
 - [ ] YDKJS This & Object Prototypes
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
-- [ ] Death of a Salesman
+- [ ] Catch-22
+- [x] Death of a Salesman
 - [x] Harry Potter and the Cursed Child
+
+## July
+
 - [x] Triggering Town
 - [x] The Road
 - [x] 100 Years of Solitude
