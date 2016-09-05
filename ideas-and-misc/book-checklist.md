@@ -1,11 +1,21 @@
 # Books I've read or am currently reading.
 
-## August
+## September
 
 - [ ] YDKJS This & Object Prototypes
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
 - [ ] Catch-22
+- [ ] Harry Potter and the Sorcer's Stone
+- [ ] Dune Messiah
+- [ ] The Pocket Emily Dickinson
+- [x] Dune
+
+## August
+
+- [x] The Poetry of Jaroslav Seifert
+- [x] Unseen City
+- [x] The Bell Jar
 - [x] Death of a Salesman
 - [x] Harry Potter and the Cursed Child
 
