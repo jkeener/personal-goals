@@ -6,9 +6,10 @@
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
 - [ ] Catch-22
-- [ ] Harry Potter and the Sorcer's Stone
+- [x] Harry Potter and the Sorcer's Stone
 - [ ] Dune Messiah
 - [ ] The Pocket Emily Dickinson
+- [ ] The Love Poems by Pablo Neruda
 - [x] Dune
 
 ## August

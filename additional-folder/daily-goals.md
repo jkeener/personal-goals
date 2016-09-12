@@ -6,23 +6,24 @@
 
 ### Tuesday
 
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Ab workout.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Ab workout.
+- [x] Laundry.
 
 ### Wednesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Gym.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Gym.
 
 ### Thursday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Ab workout.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Ab workout.
 
 ### Friday
 

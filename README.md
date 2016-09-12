@@ -14,26 +14,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# September 5, 2016
+# September 11, 2016
 
-### This Week's Goal: Contact Page and leaders tours.
+### This Week's Goal: Leaders Pages.
 
 ## Things I'll Do This Week:
 
-- [ ] Work on Contact page.
-- [ ] Set up catagories for all the leaders.
+- [ ] Make beans.
+- [ ] Finish AZ pics.
+- [ ] Fix colors on leader spotlight.
+- [ ] Fix positiong of text on leader spotlight.
 - [ ] Set up Architect block for each leader.
-- [ ] Go to the gym 2 times. 0/2
+- [ ] Find a strength program to do.
+- [ ] Go to the gym 3 times. 0/3
 - [ ] Do ab workout at least twice. 0/2
 - [ ] Do jiu-jitsu 3 times. 0/3 
 
 ### Things I'll Do This Month: September 2016
 
-- [ ] Read a book.
+- [x] Read a book.
 - [ ] Finish contact page.
 - [ ] Finish tour leaders pages.
 - [ ] Finish about page.
-- [ ] Take a walk with Alaina at least 3 times. 0/3
+- [ ] Take a walk with Alaina at least 3 times. 1/3
 - [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:

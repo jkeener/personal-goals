@@ -2,7 +2,8 @@
 
 ## September 2016
 
-
+- South Pacific
+- How to Train a Dragon 2
 
 ## August 2016
 
