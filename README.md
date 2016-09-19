@@ -20,15 +20,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Make beans.
-- [ ] Finish AZ pics.
-- [ ] Fix colors on leader spotlight.
-- [ ] Fix positiong of text on leader spotlight.
-- [ ] Set up Architect block for each leader.
-- [ ] Find a strength program to do.
-- [ ] Go to the gym 3 times. 0/3
-- [ ] Do ab workout at least twice. 0/2
-- [ ] Do jiu-jitsu 3 times. 0/3 
+- [x] Make beans.
+- [x] Finish AZ pics.
+- [x] Fix colors on leader spotlight.
+- [x] Fix positiong of text on leader spotlight.
+- [x] Set up Architect block for each leader.
+- [x] Find a strength program to do.
+- [x] Go to the gym 3 times. 3/3
+- [x] Do ab workout at least twice. 2/2
+- [x] Do jiu-jitsu 3 times. 3/3
 
 ### Things I'll Do This Month: September 2016
 
