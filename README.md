@@ -20,15 +20,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Make pizza dough.
-- [ ] Make Contact page.
-- [ ] Make About page.
-- [ ] As filler, copy info from old About page.
-- [ ] Email Kevin about old pictures to use for About page.
-- [ ] Also ask about contact us form.
-- [ ] Lift 3 times. 0/3
-- [ ] Go to the gym 3 times. 0/3
-- [ ] Do ab workout at least twice. 0/2
+- [x] Make pizza dough.
+- [x] Make Contact page.
+- [x] Make About page.
+- [x] As filler, copy info from old About page.
+- [x] Email Kevin about old pictures to use for About page.
+- [x] Also ask about contact us form.
+- [ ] Lift 3 times. 2/3
+- [ ] Go to the gym 3 times. 2/3
+- [ ] Do ab workout at least twice. 2/2
 - [ ] Do jiu-jitsu 3 times. 0/3
 
 ### Things I'll Do This Month: September 2016

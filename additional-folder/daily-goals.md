@@ -4,34 +4,34 @@
 ### Monday
 
 - [x] Make the bed.
-- [ ] Duolingo.
+- [x] Duolingo.
 - [x] 10/10
-- [ ] Ab workout.
+- [x] Ab workout.
 
 ### Tuesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Gym
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Gym
 
 ### Wednesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
-- [ ] Ab workout.
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
+- [x] Ab workout.
 
 ### Thursday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
-- [ ] 10/10
-- [ ] Gym.
+- [x] 10/10
+- [x] Gym.
 
 ### Friday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
 
