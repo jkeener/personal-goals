@@ -32,11 +32,11 @@
 ### Friday
 
 - [x] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Duolingo.
+- [x] 10/10
 
 ### Saturday
 
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
+- [x] Gym.
