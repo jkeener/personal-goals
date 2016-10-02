@@ -14,30 +14,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# September 18, 2016
+# September 25, 2016
 
-### This Week's Goal: Contact and About pages
+### This Week's Goal: Finish Css for About Pages
 
 ## Things I'll Do This Week:
 
-- [x] Make pizza dough.
-- [x] Make Contact page.
-- [x] Make About page.
-- [x] As filler, copy info from old About page.
-- [x] Email Kevin about old pictures to use for About page.
-- [x] Also ask about contact us form.
+- [x] Feed Starter.
+- [x] Copy layout from Our story to About.
+- [x] Finish CSS for Our Story page.
+- [x] Make architect block for all tours.
+- [x] Make architect block for each region.
+- [x] Copy leader page layout for all tours.
 - [x] Lift 3 times. 3/3
 - [x] Go to the gym 3 times. 3/3
-- [x] Do ab workout at least twice. 2/2
-- [ ] Do jiu-jitsu 3 times. 2/3
+- [x] Do ab workout twice. 2/2
 
 ### Things I'll Do This Month: September 2016
 
 - [x] Read a book.
 - [ ] Finish contact page.
 - [x] Finish tour leaders pages.
-- [ ] Finish about page.
-- [ ] Take a walk with Alaina at least 3 times. 1/3
+- [x] Finish about page.
+- [ ] Take a walk with Alaina at least 3 times. 2/3
 - [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:

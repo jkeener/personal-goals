@@ -2,6 +2,8 @@
 
 ## September 2016
 
+- Zootopia
+- Running Man
 - South Pacific
 - How to Train a Dragon 2
 

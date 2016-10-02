@@ -6,10 +6,12 @@
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
 - [ ] Catch-22
-- [x] Harry Potter and the Sorcer's Stone
-- [ ] Dune Messiah
+- [ ] The Poisonwood Bible
+- [ ] Jiu-Jitsu University
 - [ ] The Pocket Emily Dickinson
 - [ ] The Love Poems by Pablo Neruda
+- [x] Harry Potter and the Sorcer's Stone
+- [x] Dune Messiah
 - [x] Dune
 
 ## August
