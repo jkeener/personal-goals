@@ -36,8 +36,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish contact page.
 - [x] Finish tour leaders pages.
 - [x] Finish about page.
-- [ ] Take a walk with Alaina at least 3 times. 2/3
-- [ ] Do at least one DuoLingo lesson a day.
+- [x] Take a walk with Alaina at least 3 times. 3/3
+- [x] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:
 
