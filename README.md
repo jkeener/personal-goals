@@ -20,13 +20,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Add email to contacts page
+- [ ] Clean the disher
+- [x] Add email to contacts page
 - [ ] Make header responsive.
 - [ ] Make front page leader section responsive.
 - [ ] Check responsiveness of other pages.
 - [ ] Fix CSS for small menu.
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 3 times. 0/3
+- [ ] Lift 3 times.  1/3
+- [ ] Go to the gym 3 times. 1/3
 - [ ] Do ab workout twice. 0/2
 - [ ] Do jiu-jitsu 3 times. 0/3
 
