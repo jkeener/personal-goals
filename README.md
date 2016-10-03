@@ -14,30 +14,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# September 25, 2016
+# October 2, 2016
 
-### This Week's Goal: Finish Css for About Pages
+### This Week's Goal: Responsive!
 
 ## Things I'll Do This Week:
 
-- [x] Feed Starter.
-- [x] Copy layout from Our story to About.
-- [x] Finish CSS for Our Story page.
-- [x] Make architect block for all tours.
-- [x] Make architect block for each region.
-- [x] Copy leader page layout for all tours.
-- [x] Lift 3 times. 3/3
-- [x] Go to the gym 3 times. 3/3
-- [x] Do ab workout twice. 2/2
+- [ ] Add email to contacts page
+- [ ] Make header responsive.
+- [ ] Make front page leader section responsive.
+- [ ] Check responsiveness of other pages.
+- [ ] Fix CSS for small menu.
+- [ ] Lift 3 times.  0/3
+- [ ] Go to the gym 3 times. 0/3
+- [ ] Do ab workout twice. 0/2
+- [ ] Do jiu-jitsu 3 times. 0/3
 
 ### Things I'll Do This Month: September 2016
 
-- [x] Read a book.
-- [ ] Finish contact page.
-- [x] Finish tour leaders pages.
-- [x] Finish about page.
-- [x] Take a walk with Alaina at least 3 times. 3/3
-- [x] Do at least one DuoLingo lesson a day.
+- [ ] Make site completely responsive.
+- [ ] Read a book.
+- [ ] Take a walk with Alaina at least 3 times. 0/3
+- [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:
 
@@ -46,6 +44,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Code Things I Want to Do/Play With
 
+- [ ] Make a blog with Hexo
 - [ ] Hitchhikers guide to the galaxy quote site.
 - [ ] D3.js.
 - [ ] CSS birds.

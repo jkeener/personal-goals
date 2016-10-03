@@ -1,7 +1,8 @@
 # Books I've read or am currently reading.
 
-## September
+## October
 
+- [ ] The Girl on the Train
 - [ ] YDKJS This & Object Prototypes
 - [ ] Advanced Birding
 - [ ] The Short Stories by Hemingway
@@ -9,7 +10,10 @@
 - [ ] The Poisonwood Bible
 - [ ] Jiu-Jitsu University
 - [ ] The Pocket Emily Dickinson
-- [ ] The Love Poems by Pablo Neruda
+- [x] The Love Poems by Pablo Neruda
+
+## September
+
 - [x] Harry Potter and the Sorcer's Stone
 - [x] Dune Messiah
 - [x] Dune

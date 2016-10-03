@@ -3,40 +3,41 @@
 
 ### Monday
 
-- [x] Make the bed.
+- [ ] Make the bed.
 - [ ] Duolingo.
-- [x] 10/10
-- [x] Gym.
+- [ ] 10/10
+- [ ] Gym.
+- [ ] Laundry.
 
 ### Tuesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Ab workout.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Ab workout.
 
 ### Wednesday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Gym.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Gym.
 
 ### Thursday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Ab workout.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Ab workout.
 
 ### Friday
 
-- [x] Make the bed.
-- [x] Duolingo.
-- [x] 10/10
-- [x] Gym.
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Gym.
 
 ### Saturday
 
-- [x] Duolingo.
-- [x] 10/10
+- [ ] Duolingo.
+- [ ] 10/10
