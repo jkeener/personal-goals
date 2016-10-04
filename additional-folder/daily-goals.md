@@ -5,16 +5,15 @@
 
 - [x] Make the bed.
 - [x] Duolingo.
-- [ ] 10/10
+- [x] 10/10
 - [x] Gym.
-- [ ] Laundry.
+- [x] Laundry.
 
 ### Tuesday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
-- [ ] 10/10
-- [ ] Ab workout.
+- [x] 10/10
 
 ### Wednesday
 
@@ -41,3 +40,4 @@
 
 - [ ] Duolingo.
 - [ ] 10/10
+- [ ] Ab workout.
