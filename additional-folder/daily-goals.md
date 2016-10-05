@@ -20,7 +20,7 @@
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
+- [x] Gym.
 
 ### Thursday
 

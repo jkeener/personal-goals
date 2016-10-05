@@ -26,8 +26,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Make front page leader section responsive.
 - [x] Check responsiveness of other pages.
 - [ ] Fix CSS for small menu.
-- [ ] Lift 3 times.  1/3
-- [ ] Go to the gym 3 times. 1/3
+- [ ] Lift 3 times.  2/3
+- [ ] Go to the gym 3 times. 2/3
 - [ ] Do ab workout twice. 0/2
 - [ ] Do jiu-jitsu 3 times. 0/3
 
