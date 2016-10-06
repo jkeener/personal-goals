@@ -12,21 +12,21 @@
 ### Tuesday
 
 - [x] Make the bed.
-- [ ] Duolingo.
+- [x] Duolingo.
 - [x] 10/10
 
 ### Wednesday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
 - [x] Gym.
 
 ### Thursday
 
-- [ ] Make the bed.
-- [ ] Duolingo.
-- [ ] 10/10
+- [x] Make the bed.
+- [x] Duolingo.
+- [x] 10/10
 - [ ] Ab workout.
 
 ### Friday

@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Clean the disher
+- [x] Clean the disher
 - [x] Add email to contacts page
 - [ ] Make header responsive.
 - [ ] Make front page leader section responsive.
@@ -34,7 +34,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: September 2016
 
 - [ ] Make site completely responsive.
-- [ ] Read a book.
+- [x] Read a book.
 - [ ] Take a walk with Alaina at least 3 times. 0/3
 - [ ] Do at least one DuoLingo lesson a day.
 
