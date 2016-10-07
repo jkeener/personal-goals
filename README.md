@@ -22,13 +22,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Clean the disher
 - [x] Add email to contacts page
-- [ ] Make header responsive.
-- [ ] Make front page leader section responsive.
+- [x] Make header responsive.
+- [x] Make front page leader section responsive.
 - [x] Check responsiveness of other pages.
-- [ ] Fix CSS for small menu.
+- [x] Fix CSS for small menu.
 - [ ] Lift 3 times.  2/3
 - [ ] Go to the gym 3 times. 2/3
-- [ ] Do ab workout twice. 0/2
+- [ ] Do ab workout twice. 1/2
 - [ ] Do jiu-jitsu 3 times. 0/3
 
 ### Things I'll Do This Month: September 2016
