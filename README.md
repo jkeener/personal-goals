@@ -14,40 +14,42 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# October 2, 2016
+# October 10, 2016
 
-### This Week's Goal: Responsive!
+### This Week's Goal: Finish site
 
 ## Things I'll Do This Week:
 
-- [x] Clean the disher
-- [x] Add email to contacts page
-- [x] Make header responsive.
-- [x] Make front page leader section responsive.
-- [x] Check responsiveness of other pages.
-- [x] Fix CSS for small menu.
-- [ ] Lift 3 times.  2/3
-- [ ] Go to the gym 3 times. 2/3
-- [ ] Do ab workout twice. 1/2
-- [ ] Do jiu-jitsu 3 times. 0/3
+- [ ] Buy Ella a birthday present.
+- [ ] Finish Lynda course on React.
+- [ ] Figure out sticky footer.
+- [ ] Fix header on all pages.
+- [ ] CSS details
+- [ ] Make treat yo self illustration.
+- [ ] Lift 3 times.  0/3
+- [ ] Go to the gym 3 times. 0/3
+- [ ] Do ab workout twice. 0/2
+- [ ] Do jiu-jitsu 1 time.
 
 ### Things I'll Do This Month: September 2016
 
-- [ ] Make site completely responsive.
+- [x] Make site completely responsive.
 - [x] Read a book.
-- [ ] Take a walk with Alaina at least 3 times. 0/3
+- [ ] Take a walk with Alaina at least 3 times. 1/3
 - [ ] Do at least one DuoLingo lesson a day.
 
 ### Backlog: Side Projects:
 
+- [ ] Searchable MMA submission site with React
+- [ ] Treat yor self extension
 - [ ] Change one page portfolio into a photography site.
 - [ ] Silly parks and rec idea I had.
+- [ ] Hitchhikers guide to the galaxy quote site.
+- [ ] CSS birds.
 
 ### Backlog: Code Things I Want to Do/Play With
 
-- [ ] Make a blog with Hexo
-- [ ] Hitchhikers guide to the galaxy quote site.
+- [ ] Hexo
 - [ ] D3.js.
-- [ ] CSS birds.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
