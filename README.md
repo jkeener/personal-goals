@@ -20,15 +20,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Buy Ella a birthday present.
-- [ ] Finish Lynda course on React.
-- [ ] Figure out sticky footer.
-- [ ] Fix header on all pages.
-- [ ] CSS details
-- [ ] Make treat yo self illustration.
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 3 times. 0/3
-- [ ] Do ab workout twice. 0/2
+- [x] Buy Ella a birthday present.
+- [x] Finish Lynda course on React.
+- [x] Figure out sticky footer.
+- [x] Fix header on all pages.
+- [x] CSS details
+- [x] Make treat yo self illustration.
+- [x] Lift 3 times.  3/3
+- [x] Go to the gym 3 times. 3/3
+- [ ] Do ab workout twice. 1/2
 - [ ] Do jiu-jitsu 1 time.
 
 ### Things I'll Do This Month: September 2016
@@ -49,6 +49,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Code Things I Want to Do/Play With
 
+- [ ] Bluma
 - [ ] Hexo
 - [ ] D3.js.
 
