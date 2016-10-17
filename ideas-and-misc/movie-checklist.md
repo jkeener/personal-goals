@@ -2,6 +2,9 @@
 
 ## October 2016
 
+- Newsies
+- Spies Like Us
+- Big Trouble in Little China
 - Harry Potter and the Sorcerer's Stone
 
 ## September 2016

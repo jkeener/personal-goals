@@ -14,22 +14,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# October 10, 2016
+# October 17, 2016
 
-### This Week's Goal: Finish site
+### This Week's Goal: Visit Home
 
 ## Things I'll Do This Week:
 
-- [x] Buy Ella a birthday present.
-- [x] Finish Lynda course on React.
-- [x] Figure out sticky footer.
-- [x] Fix header on all pages.
-- [x] CSS details
-- [x] Make treat yo self illustration.
-- [x] Lift 3 times.  3/3
-- [x] Go to the gym 3 times. 3/3
-- [ ] Do ab workout twice. 1/2
-- [ ] Do jiu-jitsu 1 time.
+- [ ] Clean front seat of car.
+- [ ] Go to Georgia.
+- [ ] Lift 3 times.  1/2
+- [ ] Go to the gym 3 times. 1/2
+- [ ] Do ab workout twice. 0/2
 
 ### Things I'll Do This Month: September 2016
 
