@@ -2,6 +2,10 @@
 
 ## October 2016
 
+- The Shining
+- The Addams Family
+- Man vs Snake
+- The Barkley Marathons
 - Newsies
 - Spies Like Us
 - Big Trouble in Little China

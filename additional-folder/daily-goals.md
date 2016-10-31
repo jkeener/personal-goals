@@ -31,4 +31,12 @@
 
 ### Friday
 
+- [ ] Make the bed.
+- [ ] Duolingo.
+- [ ] 10/10
+- [ ] Gym.
+
 ### Saturday
+
+- [ ] Duolingo.
+- [ ] 10/10
