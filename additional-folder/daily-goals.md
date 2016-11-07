@@ -5,7 +5,6 @@
 
 - [ ] Make the bed.
 - [ ] Duolingo.
-- [ ] Gym.
 - [ ] Laundry.
 
 ### Tuesday
@@ -13,30 +12,31 @@
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Ab workout.
+- [ ] Gym.
 
 ### Wednesday
 
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
+- [ ] Planks.
 
 ### Thursday
 
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Ab workout.
+- [ ] Gym.
 
 ### Friday
 
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
+- [ ] Planks.
 
 ### Saturday
 
 - [ ] Duolingo.
 - [ ] 10/10
+- [ ] Gym.

@@ -1,7 +1,14 @@
 # Movies I've watched
 
+## November 2016
+
+- Seven Samurai
+- Doctor Strange
+
 ## October 2016
 
+- Vertigo
+- Killer Klowns from Outer Space
 - The Shining
 - The Addams Family
 - Man vs Snake

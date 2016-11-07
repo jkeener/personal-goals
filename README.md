@@ -16,18 +16,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # October 30, 2016
 
-### This Week's Goal: Get back on track!
+### This Week's Goal: Actually get back on track!
 
 ## Things I'll Do This Week:
 
 - [ ] Make muffins.
 - [ ] Read up on chrome extensions.
 - [ ] Research build systems for next site.
-- [ ] Clean kitchen.
-- [ ] Do 3 loads of laundry. 0/3
+- [ ] Make dinner at least one night.
+- [ ] Sweep porch.
+- [ ] Scrub sink.
 - [ ] Lift 3 times.  0/3
 - [ ] Go to the gym 3 times. 0/3
-- [ ] Do ab workout twice. 0/2
+- [ ] Do ab planks twice. 0/2
 - [ ] Do jiu-jitsu 0/1
 
 ### Things I'll Do This Month: September 2016
