@@ -14,29 +14,30 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# October 30, 2016
+# October 14, 2016
 
-### This Week's Goal: Actually get back on track!
+### This Week's Goal: Start adding goals
 
 ## Things I'll Do This Week:
 
-- [ ] Make muffins.
-- [ ] Read up on chrome extensions.
-- [ ] Research build systems for next site.
-- [ ] Make dinner at least one night.
-- [ ] Sweep porch.
-- [ ] Scrub sink.
+- [ ] Test batch rye rolls.
+- [ ] Find another roll recipe.
+- [ ] Put 5 tours on the site. 0/5
+- [ ] Tactics every day.
+- [ ] Try to do some Duo lingo.
+- [ ] Hang hook in bedroom.
+- [ ] Wash skillet.
+- [ ] Make beans.
 - [ ] Lift 3 times.  0/3
 - [ ] Go to the gym 3 times. 0/3
-- [ ] Do ab planks twice. 0/2
 - [ ] Do jiu-jitsu 0/1
 
-### Things I'll Do This Month: September 2016
+### Things I'll Do This Month: October 2016
 
-- [x] Make site completely responsive.
-- [x] Read a book.
-- [ ] Take a walk with Alaina at least 3 times. 2/3
-- [ ] Do at least one DuoLingo lesson a day.
+- [ ] Put tours on site.
+- [ ] Read a book.
+- [ ] Take a walk with Alaina at least 3 times. 0/3
+- [ ] Have basic chrome extension up.
 
 ### Backlog: Side Projects:
 
