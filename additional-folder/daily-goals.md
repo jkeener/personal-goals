@@ -3,10 +3,10 @@
 
 ### Monday
 
-- [ ] Make the bed.
+- [x] Make the bed.
 - [ ] Duolingo.
-- [ ] Laundry.
-- [ ] Tactics
+- [x] Laundry.
+- [x] Tactics
 
 ### Tuesday
 

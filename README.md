@@ -21,21 +21,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Test batch rye rolls.
-- [ ] Find another roll recipe.
-- [ ] Put 5 tours on the site. 0/5
-- [ ] Tactics every day.
+- [x] Find another roll recipe.
+- [ ] Put 5 tours on the site. 2/5
+- [ ] Tactics every day. 4/5
 - [ ] Try to do some Duo lingo.
-- [ ] Hang hook in bedroom.
+- [x] Hang hook in bedroom.
 - [ ] Wash skillet.
-- [ ] Make beans.
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 3 times. 0/3
+- [x] Make beans.
+- [ ] Lift 3 times.  2/3
+- [ ] Go to the gym 3 times. 2/3
 - [ ] Do jiu-jitsu 0/1
 
 ### Things I'll Do This Month: October 2016
 
 - [ ] Put tours on site.
-- [ ] Read a book.
+- [x] Read a book.
 - [ ] Take a walk with Alaina at least 3 times. 0/3
 - [ ] Have basic chrome extension up.
 
