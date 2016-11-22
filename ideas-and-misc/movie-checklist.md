@@ -2,6 +2,8 @@
 
 ## November 2016
 
+- Saving Face
+- Fantastic Beasts and Where to Find Them
 - Saving Private Ryan
 - Terminator Genisys
 - Sicario

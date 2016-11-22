@@ -8,8 +8,7 @@
 - [ ] Catch-22
 - [ ] The Poisonwood Bible
 - [ ] Jiu-Jitsu University
-- [ ] The Pocket Emily Dickinson
-- [ ] Harry Potter and the Chamber of Secrets
+- [x] Harry Potter and the Chamber of Secrets
 - [x] The Girl on the Train
 - [x] The Love Poems by Pablo Neruda
 

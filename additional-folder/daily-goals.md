@@ -7,13 +7,13 @@
 - [ ] Duolingo.
 - [x] Laundry.
 - [x] Tactics
+- [x] Gym.
 
 ### Tuesday
 
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
 - [ ] Tactics
 
 ### Wednesday
@@ -22,13 +22,13 @@
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] Tactics
+- [ ] Gym.
 
 ### Thursday
 
 - [ ] Make the bed.
 - [ ] Duolingo.
 - [ ] 10/10
-- [ ] Gym.
 - [ ] Tactics
 
 ### Friday
@@ -37,6 +37,7 @@
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] Tactics
+- [ ] Gym.
 
 ### Saturday
 

@@ -14,22 +14,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# October 14, 2016
+# October 20, 2016
 
-### This Week's Goal: Start adding goals
+### This Week's Goal: Try to fix site
 
 ## Things I'll Do This Week:
 
-- [ ] Test batch rye rolls.
-- [x] Find another roll recipe.
-- [ ] Put 5 tours on the site. 2/5
-- [ ] Tactics every day. 4/5
-- [ ] Try to do some Duo lingo.
-- [x] Hang hook in bedroom.
-- [ ] Wash skillet.
-- [x] Make beans.
-- [ ] Lift 3 times.  2/3
-- [ ] Go to the gym 3 times. 2/3
+- [ ] See if I can figure out what's wrong with the page.
+- [ ] If I can't e-mail support.
+- [ ] Do what support says.
+- [ ] Bake rye rolls.
+- [ ] Bake Parker House rolls.
+- [ ] Tactics every day. 1/5
+- [ ] Lift 3 times.  0/3
+- [ ] Go to the gym 3 times. 0/3
 - [ ] Do jiu-jitsu 0/1
 
 ### Things I'll Do This Month: October 2016
