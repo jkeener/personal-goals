@@ -23,11 +23,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] See if I can figure out what's wrong with the page.
 - [ ] If I can't e-mail support.
 - [ ] Do what support says.
-- [ ] Bake rye rolls.
-- [ ] Bake Parker House rolls.
-- [ ] Tactics every day. 1/5
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 3 times. 0/3
+- [x] Bake rye rolls.
+- [x] Bake Parker House rolls.
+- [x] Tactics every day. 5/5
+- [x] Lift 3 times.  3/3
+- [x] Go to the gym 3 times. 3/3
 - [ ] Do jiu-jitsu 0/1
 
 ### Things I'll Do This Month: October 2016

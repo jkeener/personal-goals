@@ -3,11 +3,11 @@
 
 ### Monday
 
-- [x] Make the bed.
+- [ ] Make the bed.
 - [ ] Duolingo.
-- [x] Laundry.
-- [x] Tactics
-- [x] Gym.
+- [ ] Laundry.
+- [ ] Tactics
+- [ ] Gym.
 
 ### Tuesday
 
@@ -15,6 +15,7 @@
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] Tactics
+- [ ] Gym.
 
 ### Wednesday
 
@@ -30,6 +31,7 @@
 - [ ] Duolingo.
 - [ ] 10/10
 - [ ] Tactics
+- [ ] Gym.
 
 ### Friday
 
