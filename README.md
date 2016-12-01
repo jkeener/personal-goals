@@ -14,20 +14,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# October 20, 2016
+# November 27, 2016
 
 ### This Week's Goal: Try to fix site
 
 ## Things I'll Do This Week:
 
 - [ ] See if I can figure out what's wrong with the page.
-- [ ] If I can't e-mail support.
+- [ ] If I can't, e-mail support.
 - [ ] Do what support says.
-- [x] Bake rye rolls.
-- [x] Bake Parker House rolls.
-- [x] Tactics every day. 5/5
-- [x] Lift 3 times.  3/3
-- [x] Go to the gym 3 times. 3/3
+- [x] Clean desk.
+- [x] Mop apartment.
+- [ ] Scrub tub.
+- [ ] Tactics every day. 3/5
+- [ ] Lift 3 times.  2/3
+- [ ] Go to the gym 5 times. 3/5
 - [ ] Do jiu-jitsu 0/1
 
 ### Things I'll Do This Month: October 2016

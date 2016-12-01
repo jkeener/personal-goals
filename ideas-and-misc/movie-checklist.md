@@ -2,6 +2,9 @@
 
 ## November 2016
 
+- Perfect Sisters
+- Children of Men
+- The Magnificent Seven
 - Saving Face
 - Fantastic Beasts and Where to Find Them
 - Saving Private Ryan
