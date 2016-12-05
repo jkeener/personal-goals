@@ -31,7 +31,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Lift 3 times.  0/3
 - [ ] Go to the gym 5 times. 0/5
 
-### Things I'll Do This Month: October 2016
+### Things I'll Do This Month: December 2016
 
 - [ ] Fix site
 - [ ] Read a book.
