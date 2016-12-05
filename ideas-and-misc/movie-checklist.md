@@ -2,6 +2,8 @@
 
 ## November 2016
 
+- Harry Potter and the Prisoner of Azkaban
+- American Beauty
 - Perfect Sisters
 - Children of Men
 - The Magnificent Seven

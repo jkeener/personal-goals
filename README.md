@@ -14,29 +14,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# November 27, 2016
+# December 4, 2016
 
-### This Week's Goal: Try to fix site
+### This Week's Goal: Think positively 
 
 ## Things I'll Do This Week:
 
-- [ ] See if I can figure out what's wrong with the page.
+- [ ] If support emails me back...fix the site.
+- [ ] If they don't email them again.
+- [ ] Clean bar top.
+- [ ] Research printmaking place in Denver.
+- [ ] Brainstorm simple webdev projects.
+- [ ] Wipe down counters.
 - [ ] If I can't, e-mail support.
-- [ ] Do what support says.
-- [x] Clean desk.
-- [x] Mop apartment.
-- [ ] Scrub tub.
-- [ ] Tactics every day. 3/5
-- [ ] Lift 3 times.  2/3
-- [ ] Go to the gym 5 times. 3/5
-- [ ] Do jiu-jitsu 0/1
+- [ ] Tactics every day. 0/5
+- [ ] Lift 3 times.  0/3
+- [ ] Go to the gym 5 times. 0/5
 
 ### Things I'll Do This Month: October 2016
 
-- [ ] Put tours on site.
-- [x] Read a book.
+- [ ] Fix site
+- [ ] Read a book.
 - [ ] Take a walk with Alaina at least 3 times. 0/3
-- [ ] Have basic chrome extension up.
+- [ ] Have a good Christmas vacation.
 
 ### Backlog: Side Projects:
 
