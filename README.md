@@ -20,16 +20,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] If support emails me back...fix the site.
-- [ ] If they don't email them again.
+- [x] If support emails me back...fix the site.
+- [x] If they don't email them again.
 - [ ] Clean bar top.
-- [ ] Research printmaking place in Denver.
+- [x] Research printmaking place in Denver.
 - [ ] Brainstorm simple webdev projects.
 - [ ] Wipe down counters.
-- [ ] If I can't, e-mail support.
-- [ ] Tactics every day. 0/5
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 5 times. 0/5
+- [ ] Lift 3 times.  1/3
+- [ ] Go to the gym 5 times. 2/5
 
 ### Things I'll Do This Month: December 2016
 
