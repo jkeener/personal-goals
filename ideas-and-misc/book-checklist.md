@@ -1,4 +1,4 @@
-# Books I've read or am currently reading.
+# I've switched to using Goodreads for my booklist.
 
 ## October
 
