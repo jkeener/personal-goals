@@ -2,6 +2,8 @@
 
 ## December 2016
 
+- Christmas in Connecticut
+- The Killer
 - The Muppet Christmas Carol
 - La Dolce Vita
 - Harry Potter and the Prisoner of Azkaban

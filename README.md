@@ -14,20 +14,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding a lot.
 6. Do more art
 
-# December 12, 2016
+# December 18, 2016
 
 ### This Week's Goal: Tours 
 
 ## Things I'll Do This Week:
 
-- [x] Brainstorm simple webdev projects.
-- [x] Email Kevin.
-- [ ] Put 3 tours on the site (minus gallery).
-- [x] Fix my broken cup.
-- [x] Research things for the thing (cryptic I know).
-- [x] Look up cost of the wall instrument holders.
-- [ ] Lift 3 times.  2/3
-- [ ] Go to the gym 5 times. 3/5
+- [ ] Pack on Wednesday afternoon.
+- [ ] Make crockpot dinner on Tuesday.
+- [ ] Try not to freak out on Thursday!
+- [ ] Set up vue project.
+- [ ] Look up api to get movie images.
+- [ ] Lift 1 time.  0/1
+- [ ] Go to the gym 3 times. 1/3
 
 ### Things I'll Do This Month: December 2016
 
