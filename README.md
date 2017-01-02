@@ -21,10 +21,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 
 - [ ] Get back to reading YDKJS books...read a chapter.
-- [ ] Unpack
-- [ ] Make folders/files for the accomplishments section for all year.
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 5 times. 0/5
+- [x] Unpack
+- [x] Make folders/files for the accomplishments section for entire year.
+- [ ] Lift 3 times.  1/3
+- [ ] Go to the gym 5 times. 1/5
 
 ### Things I'll Do This Month: January 2016
 
