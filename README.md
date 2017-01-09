@@ -16,7 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # January 8, 2017
 
-### This Week's Goal: Start Nanodegree program
+### This Week's Goal: Resume
 
 ## Things I'll Do This Week:
 
