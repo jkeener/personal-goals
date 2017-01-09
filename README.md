@@ -20,7 +20,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Start Udacity.
 - [ ] Sign up for github student pack.
 - [ ] Learn a song on the piano.
 - [ ] Ask Alaina to look at my LinkedIn.
