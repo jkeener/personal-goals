@@ -2,6 +2,7 @@
 
 ## December 2016
 
+- The Hunt
 - Christmas in Connecticut
 - The Killer
 - The Muppet Christmas Carol

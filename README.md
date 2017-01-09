@@ -14,17 +14,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# January 1, 2017
+# January 8, 2017
 
-### This Week's Goal: Back on track
+### This Week's Goal: Start Nanodegree program
 
 ## Things I'll Do This Week:
 
-- [ ] Get back to reading YDKJS books...read a chapter.
-- [x] Unpack
-- [x] Make folders/files for the accomplishments section for entire year.
-- [ ] Lift 3 times.  1/3
-- [ ] Go to the gym 5 times. 1/5
+- [ ] Start Udacity.
+- [ ] Sign up for github student pack.
+- [ ] Learn a song on the piano.
+- [ ] Ask Alaina to look at my LinkedIn.
+- [ ] Make pizza dough.
+- [ ] At least one chapter of YDKJS.
+- [ ] Make ravs.
+- [ ] Rough draft resume.
+- [ ] So something from the movie site checklist.
+- [ ] Brainstorm 5 new projects.
+- [ ] Lift 3 times.  0/3
+- [ ] Go to the gym 5 times. 0/5
 
 ### Things I'll Do This Month: January 2016
 
@@ -32,11 +39,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish movie site.
 - [ ] Finish a YDKJS book.
 - [ ] Read a book.
-
-### Backlog: Code Things I Want to Do/Play With
-
-- [ ] Bluma
-- [ ] Hexo
-- [ ] D3.js
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter

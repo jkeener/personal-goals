@@ -6,3 +6,4 @@
 - [ ] CSS birds.
 - [x] Visual representation of movies we've watched.
 - [ ] Random chore page (for when we can't think of a weekly chore).
+- [ ] Cat profile site.
