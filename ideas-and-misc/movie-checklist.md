@@ -1,8 +1,16 @@
 # Movies I've watched
 
+## January 2017
+
+- Iron Man
+- Tokyo Story
+- The Last Crusade
+- Temple of Doom
+- Raiders of the Lost Ark
+- The Hunt
+
 ## December 2016
 
-- The Hunt
 - Christmas in Connecticut
 - The Killer
 - The Muppet Christmas Carol

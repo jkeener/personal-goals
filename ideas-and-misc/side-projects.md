@@ -7,3 +7,9 @@
 - [x] Visual representation of movies we've watched.
 - [ ] Random chore page (for when we can't think of a weekly chore).
 - [ ] Cat profile site.
+- [ ] Text game with Hilary.
+- [ ] Centre Georges Pompidou inspired site.
+- [ ] Hexo movie blog.
+- [ ] Hexo DnD blog.
+- [ ] DnD handbook react. (Maybe start with classes? Or just spellbook?)
+- [ ] Some kind of repo for songs I like to play.
