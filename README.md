@@ -20,20 +20,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Sign up for a udacity program.
-- [ ] Do at least a few hours of work on udacity.
+- [x] Sign up for a udacity program.
+- [x] Do at least a few hours of work on udacity.
 - [ ] Learn a new piano part.
-- [ ] At least one chapter of YDKJS.
-- [ ] Start Hexo DnD site.
+- [x] At least one chapter of YDKJS.
+- [x] Start Hexo DnD site.
 - [ ] Make old resume into new resume.
-- [ ] Lift 3 times.  0/3
-- [ ] Go to the gym 5 times. 0/5
+- [x] Lift 3 times.  3/3
+- [x] Go to the gym 5 times. 5/5
 
 ### Things I'll Do This Month: January 2016
 
 - [ ] Make a webdev resume.
 - [ ] Finish movie site.
 - [ ] Finish a YDKJS book.
-- [ ] Read a book.
+- [x] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter

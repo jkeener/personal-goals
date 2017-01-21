@@ -2,6 +2,10 @@
 
 ## January 2017
 
+- Singin' in the Rain
+- Y Tu Mama Tambian
+- Kingdom of the Crystal Skull
+- Planet Hulk
 - Iron Man
 - Tokyo Story
 - The Last Crusade
@@ -11,6 +15,8 @@
 
 ## December 2016
 
+- Christmas Vacation
+- White Christmas
 - Christmas in Connecticut
 - The Killer
 - The Muppet Christmas Carol
