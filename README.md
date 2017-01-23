@@ -14,25 +14,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# January 15, 2017
+# January 22, 2017
 
 ### This Week's Goal: Udacity
 
 ## Things I'll Do This Week:
 
-- [x] Sign up for a udacity program.
-- [x] Do at least a few hours of work on udacity.
-- [ ] Learn a new piano part.
-- [x] At least one chapter of YDKJS.
-- [x] Start Hexo DnD site.
-- [ ] Make old resume into new resume.
-- [x] Lift 3 times.  3/3
-- [x] Go to the gym 5 times. 5/5
+- [ ] Finish portfolio section.
+- [ ] Work on portfolio section every day. 0/5
+- [ ] Fix hexo css not loading.
+- [ ] At least one chapter of YDKJS.
+- [ ] Make diner one day.
+- [ ] New exercise routines twice. 0/2
+- [ ] Go to the gym 5 times. 0/5
 
 ### Things I'll Do This Month: January 2016
 
 - [ ] Make a webdev resume.
-- [ ] Finish movie site.
+- [x] Finish movie site.
 - [ ] Finish a YDKJS book.
 - [x] Read a book.
 
