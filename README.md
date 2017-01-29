@@ -14,25 +14,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# January 22, 2017
+# January 29, 2017
 
-### This Week's Goal: Udacity
+### This Week's Goal: Udacity portfolio project
 
 ## Things I'll Do This Week:
 
-- [ ] Finish portfolio section.
-- [ ] Work on portfolio section every day. 0/5
-- [ ] Fix hexo css not loading.
-- [ ] At least one chapter of YDKJS.
-- [ ] Make diner one day.
+- [ ] Take out trash.
+- [ ] Make beans.
+- [ ] Change theme for DnD blog.
+- [ ] Finish responsive section of course.
+- [ ] Work on portfolio project every day. 0/5
+- [ ] Get back to using my daily goals page.
 - [ ] New exercise routines twice. 0/2
 - [ ] Go to the gym 5 times. 0/5
 
 ### Things I'll Do This Month: January 2016
 
-- [ ] Make a webdev resume.
-- [x] Finish movie site.
-- [ ] Finish a YDKJS book.
-- [x] Read a book.
+- [ ] Work on resume.
+- [ ] Finish Udacity portfolio.
+- [ ] Finish hexo DnD blog.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
