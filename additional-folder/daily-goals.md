@@ -13,7 +13,7 @@
 - [ ] Portfolio project.
 - [ ] Make the bed.
 - [ ] 10/10
-- [ ] Gym.
+- [ ] Run.
 - [ ] Workout.
 
 ### Wednesday
@@ -28,7 +28,7 @@
 - [ ] Portfolio project.
 - [ ] Make the bed.
 - [ ] 10/10
-- [ ] Gym.
+- [ ] Run.
 - [ ] Workout.
 
 ### Friday
