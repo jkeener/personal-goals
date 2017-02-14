@@ -2,6 +2,8 @@
 
 ## February 2017
 
+- Pan's Labyrinth
+- Close Encounters of the Third Kind 
 - The Breakfast Club
 
 ## January 2017
