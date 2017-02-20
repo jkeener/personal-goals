@@ -2,6 +2,8 @@
 
 ## February 2017
 
+- My Neighbor Totoro
+- Harry Potter and the Order of the Phoenix
 - Pan's Labyrinth
 - Close Encounters of the Third Kind 
 - The Breakfast Club
