@@ -20,16 +20,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Customize CSS on project.
-- [ ] Turn in project.
+- [x] Customize CSS on project.
+- [x] Turn in project.
 - [ ] Do resume review.
-- [ ] Go to eye doctor.
+- [x] Go to eye doctor.
 - [ ] Scrub the tub.
-- [ ] Put the pennies in ucoin.
+- [x] Put the pennies in ucoin.
 - [ ] Work on blog css.
-- [ ] Run thee times. 0/3
-- [ ] New exercise routines twice. 0/2
-- [ ] Go to the gym 4 times. 0/5
+- [ ] Run thee times. 2/3
+- [ ] New exercise routines twice. 1/2
+- [ ] Go to the gym 4 times. 3/5
 
 ### Things I'll Do This Month: February 2016
 
