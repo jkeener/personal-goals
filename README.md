@@ -14,18 +14,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# February 26, 2017
+# March 5, 2017
 
-### This Week's Goal: Start new portfolio
+### This Week's Goal: New portfolio
 
 ## Things I'll Do This Week:
 
-- [ ] Apply for a job
-- [ ] Mop bathroom.
-- [ ] Handwash clothes.
-- [ ] Create project for portfolio
-- [ ] Copy for new portfolio.
-- [ ] Work on responsivness for vue-portfolio.
+- [ ] Apply for a job.
+- [ ] Take out trash.
+- [ ] clean off windowsill.
+- [ ] Research display changes for screen readers.
+- [ ] Start CSS for new site.
+- [ ] Experiment with responsive text.
+- [ ] Html for new site.
+- [ ] Make croissants.
+- [ ] Scrub sink.
 - [ ] Run two times. 0/2
 - [ ] New exercise routines twice. 0/2
 - [ ] Go to the gym 4 times. 0/5
