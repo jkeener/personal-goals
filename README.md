@@ -14,29 +14,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# March 5, 2017
+# March 13, 2017
 
-### This Week's Goal: New portfolio
+### This Week's Goal: Cover letter & site
 
 ## Things I'll Do This Week:
 
-- [ ] Apply for a job.
-- [ ] Take out trash.
-- [ ] clean off windowsill.
-- [ ] Research display changes for screen readers.
-- [ ] Start CSS for new site.
-- [ ] Experiment with responsive text.
-- [ ] Html for new site.
-- [ ] Make croissants.
-- [ ] Scrub sink.
+- [ ] Coverletter boilerplate.
+- [ ] Apply for job.
+- [ ] Laundry folding bonanza.
+- [ ] Work on css for site.
+- [ ] Work on html for site.
+- [ ] Draw every day. 0/5
+- [ ] Clean stove.
+- [ ] Sweep porch.
 - [ ] Run two times. 0/2
 - [ ] New exercise routines twice. 0/2
-- [ ] Go to the gym 4 times. 0/5
+- [ ] Go to the gym 5 times. 0/5
 
-### Things I'll Do This Month: February 2016
+### Things I'll Do This Month: March 2017
 
-- [ ] Apply for 5 jobs.
+- [x] Apply for 5 jobs.
 - [ ] Finish new portfolio. 
-- [ ] Read a book.
+- [x] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
