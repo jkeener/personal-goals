@@ -14,20 +14,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# March 13, 2017
+# March 19, 2017
 
-### This Week's Goal: Cover letter & site
+### This Week's Goal: Fresh Start
 
 ## Things I'll Do This Week:
 
-- [ ] Coverletter boilerplate.
-- [ ] Apply for job.
-- [ ] Laundry folding bonanza.
-- [ ] Work on css for site.
-- [ ] Work on html for site.
-- [ ] Draw every day. 0/5
+- [ ] Rethink site, do some drawings.
+- [ ] Breathe.
 - [ ] Clean stove.
 - [ ] Sweep porch.
+- [ ] Draw every day. 0/5
 - [ ] Run two times. 0/2
 - [ ] New exercise routines twice. 0/2
 - [ ] Go to the gym 5 times. 0/5
