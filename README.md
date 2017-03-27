@@ -14,20 +14,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# March 19, 2017
+# March 26, 2017
 
-### This Week's Goal: Fresh Start
+### This Week's Goal: Have some fun, so some work.
 
 ## Things I'll Do This Week:
 
-- [ ] Rethink site, do some drawings.
-- [ ] Breathe.
-- [ ] Clean stove.
-- [ ] Sweep porch.
-- [ ] Draw every day. 0/5
-- [ ] Run two times. 0/2
-- [ ] New exercise routines twice. 0/2
-- [ ] Go to the gym 5 times. 0/5
+- [ ] Watch some digital painting videos.
+- [ ] Go birding.
+- [ ] Learn about Drupal.
+- [ ] Sketch for new site.
+- [ ] Five pages in sketchbook.
+- [ ] Go to the gym 3 times. 0/3
 
 ### Things I'll Do This Month: March 2017
 

@@ -2,6 +2,7 @@
 
 ## March 2017
 
+- Harry Potter and the Half-blood Prince
 - 10 Cloverfield Lane
 - Cloverfield
 - Kong: Skull Island
