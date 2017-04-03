@@ -14,23 +14,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# March 26, 2017
+# April 3, 2017
 
-### This Week's Goal: Have some fun, so some work.
+### This Week's Goal: Blog and baseball
 
 ## Things I'll Do This Week:
 
-- [ ] Watch some digital painting videos.
-- [ ] Go birding.
-- [ ] Learn about Drupal.
-- [ ] Sketch for new site.
-- [ ] Five pages in sketchbook.
-- [ ] Go to the gym 3 times. 0/3
+- [ ] Watch baseball!
+- [ ] Endgame book everyday. 0/5
+- [ ] Set up project for new portfolio.
+- [ ] Start Drupal blog.
+- [ ] 5 pages in sketchbook. 0/5
+- [ ] Do Drupal tutorials.
+- [ ] Workout routine twice. 0/2
+- [ ] Go running twice. 0/2
+- [ ] Go to the gym 5 times. 0/5
 
-### Things I'll Do This Month: March 2017
+### Things I'll Do This Month: April 2017
 
-- [x] Apply for 5 jobs.
-- [ ] Finish new portfolio. 
-- [x] Read a book.
+- [ ] Draw a lot.
+- [ ] Start new portfolio.
+- [ ] Make the blog.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter

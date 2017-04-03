@@ -1,5 +1,11 @@
 # Movies I've watched
 
+## April 2017
+
+- Romy and Michele's High School Reunion
+- The Day the Earth Stood Still
+- Legend of Tarzan
+
 ## March 2017
 
 - Harry Potter and the Half-blood Prince
