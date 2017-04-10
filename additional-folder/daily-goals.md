@@ -3,14 +3,16 @@
 
 ### Monday
 
-- [ ] Portfolio project.
+- [ ] Endgames.
+- [ ] Draw.
 - [ ] Make the bed.
 - [ ] Laundry.
 - [ ] Gym.
 
 ### Tuesday
 
-- [ ] Portfolio project.
+- [ ] Endgames.
+- [ ] Draw.
 - [ ] Make the bed.
 - [ ] 10/10
 - [ ] Run.
@@ -18,14 +20,16 @@
 
 ### Wednesday
 
-- [ ] Portfolio project.
+- [ ] Endgames.
+- [ ] Draw.
 - [ ] Make the bed.
 - [ ] 10/10
 - [ ] Gym.
 
 ### Thursday
 
-- [ ] Portfolio project.
+- [ ] Endgames.
+- [ ] Draw.
 - [ ] Make the bed.
 - [ ] 10/10
 - [ ] Run.
@@ -33,12 +37,12 @@
 
 ### Friday
 
-- [ ] Portfolio project.
+- [ ] Endgames.
+- [ ] Draw.
 - [ ] Make the bed.
 - [ ] 10/10
 - [ ] Gym.
 
 ### Saturday
 
-- [ ] Portfolio project.
 - [ ] 10/10

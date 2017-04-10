@@ -14,16 +14,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# April 3, 2017
+# April 9, 2017
 
-### This Week's Goal: Blog and baseball
+### This Week's Goal: Blog
 
 ## Things I'll Do This Week:
 
-- [ ] Watch baseball!
+- [ ] Mop entryway.
+- [ ] Don't play chess.
 - [ ] Endgame book everyday. 0/5
-- [ ] Set up project for new portfolio.
-- [ ] Start Drupal blog.
+- [ ] Outline of blog post.
 - [ ] 5 pages in sketchbook. 0/5
 - [ ] Do Drupal tutorials.
 - [ ] Workout routine twice. 0/2
