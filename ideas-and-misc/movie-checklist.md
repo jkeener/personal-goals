@@ -2,6 +2,11 @@
 
 ## April 2017
 
+- Star Wars: The Force Awakens
+- A Nightmare on Elm Street
+- Chronos
+- Ant-Man
+- Star Wars: The Force Awakens
 - The Good Dinosaur
 - Romy and Michele's High School Reunion
 - The Day the Earth Stood Still
