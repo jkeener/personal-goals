@@ -1,0 +1,31 @@
+## Packing list for my trip the The Biggest Week in American Birding
+
+- [ ] 2 pairs of pants
+- [ ] 5 t-shirts
+- [ ] Some socks
+- [ ] Some underwear
+- [ ] Long sleeve shirt
+- [ ] Sleeping shorts
+- [ ] Rain jacket
+- [ ] Hat
+- [ ] Binoculars
+- [ ] Ipad
+- [ ] Ipad Charger
+- [ ] Phone
+- [ ] Phone Charger
+- [ ] Wallet
+- [ ] Sketchbook
+- [ ] Kneeded eraser
+- [ ] Pencil
+- [ ] Watercolor set
+- [ ] Snacks
+- [ ] Water bottle
+- [ ] Lens cleaner
+- [ ] Camera
+- [ ] Camera charger
+- [ ] Toothbrush
+- [ ] Toothbrush paste
+- [ ] Pill bottle
+- [ ] Extra bag?
+- [ ] Spinner
+- [ ] Camera Bags

@@ -14,7 +14,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# April 23, 2017
+# May 1, 2017
 
 ### This Week's Goal: Get ready for the big trip and don't freak out too much!
 
@@ -22,19 +22,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Plane tickets for SF trip.
 - [ ] Pack for trip.
-- [ ] Make packing list.
-- [ ] New endgame book everyday.
+- [ ] Endgame book everyday. 1/5
 - [ ] Practice warbler calls.
 - [ ] 5 pages in sketchbook. 0/5
-- [ ] Workout routine twice. 1/2
-- [ ] Go running twice. 1/2
-- [ ] Go to the gym 5 times. 2/5
+- [ ] Workout routine twice. 0/2
+- [ ] Go running twice. 0/2
+- [ ] Go to the gym 5 times. 0/5
 
 ### Things I'll Do This Month: April 2017
 
 - [ ] Draw a lot.
-- [ ] Start new portfolio.
-- [ ] Make the blog.
-- [x] Read a book.
+- [ ] Go to the Biggest week in American Birding.
+- [ ] Make more bread.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
