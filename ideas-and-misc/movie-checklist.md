@@ -2,6 +2,11 @@
 
 ## May 2017
 
+- Star Wars: The Force Awakens
+- Star Wars: Return of the Jedi
+- Star Wars: The Empire Strikes Back
+- Star Wars: A New Hope
+- Star Wars: Revenge of the Sith
 - Once Upon a Time in the West
 
 ## April 2017
