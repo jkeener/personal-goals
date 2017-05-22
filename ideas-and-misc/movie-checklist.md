@@ -2,6 +2,10 @@
 
 ## May 2017
 
+- Guardians of the Galaxy vol. 2
+- Star Wars: The Phantom Menace
+- Pirates of the Caribbean: At World's End
+- Pirates of the Caribbean: The Curse of the Black Pearl
 - Star Wars: The Force Awakens
 - Star Wars: Return of the Jedi
 - Star Wars: The Empire Strikes Back
