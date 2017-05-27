@@ -2,6 +2,8 @@
 
 ## May 2017
 
+- La La Land
+- Rogue One: A Star Wars Story
 - Guardians of the Galaxy vol. 2
 - Star Wars: The Phantom Menace
 - Pirates of the Caribbean: At World's End
@@ -74,6 +76,7 @@
 - The Killer
 - The Muppet Christmas Carol
 - La Dolce Vita
+- Rogue One: A Star Wars Story
 - Harry Potter and the Prisoner of Azkaban
 
 ## November 2016

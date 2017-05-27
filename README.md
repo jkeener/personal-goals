@@ -20,15 +20,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 
-- [ ] Make gif repo
-- [ ] Do some art.
-- [ ] Spanish flashcards everyday.
-- [ ] Duolingo everyday.
-- [ ] Take a look at new site.
-- [ ] Laundry.
-- [ ] Go to the gym 5 times. 0/5
-- [ ] Run 3 times. 0/3
-- [ ] Weights 2 times. 0/2
+- [x] Make gif repo.
+- [x] Do some art.
+- [x] Spanish flashcards everyday.
+- [x] Duolingo everyday.
+- [x] Take a look at new site.
+- [x] Laundry.
+- [x] Go to the gym 5 times. 0/5
+- [x] Run 3 times. 0/3
+- [x] Weights 2 times. 0/2
 
 ### Things I'll Do This Month: May 2017
 
