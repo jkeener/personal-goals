@@ -2,6 +2,8 @@
 
 ## May 2017
 
+- The Goonies
+- Alien
 - La La Land
 - Rogue One: A Star Wars Story
 - Guardians of the Galaxy vol. 2

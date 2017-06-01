@@ -14,21 +14,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# May 21, 2017
+# May 28, 2017
 
-### This Week's Goal: Back to the routine
+### This Week's Goal: Have a nice birthday!
 
 ## Things I'll Do This Week:
 
-- [x] Make gif repo.
-- [x] Do some art.
-- [x] Spanish flashcards everyday.
-- [x] Duolingo everyday.
-- [x] Take a look at new site.
-- [x] Laundry.
-- [x] Go to the gym 5 times. 0/5
-- [x] Run 3 times. 0/3
-- [x] Weights 2 times. 0/2
+- [ ] Have my birthday!
+- [ ] Launrdy.
+- [ ] Keep up with dishes.
+- [ ] Keep reading my books everyday.
+- [ ] Finish putting summaries on the spreadsheet.
+- [ ] Make a list of sea bird to study.
 
 ### Things I'll Do This Month: May 2017
 
