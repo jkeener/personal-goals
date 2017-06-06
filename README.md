@@ -14,24 +14,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# May 28, 2017
+# June 4, 2017
 
-### This Week's Goal: Have a nice birthday!
+### This Week's Goal: Paint!
 
 ## Things I'll Do This Week:
 
-- [ ] Have my birthday!
-- [ ] Launrdy.
+- [ ] Art everyday.
+- [ ] Cardinal poses.
 - [ ] Keep up with dishes.
-- [ ] Keep reading my books everyday.
-- [ ] Finish putting summaries on the spreadsheet.
-- [ ] Make a list of sea bird to study.
+- [ ] Write some species notes for pelagic.
+- [ ] Spanish flashcards everyday. 0/5
+- [ ] Go to the gym 5 times. 0/5
+- [ ] Run 3 times. 0/3
+- [ ] Weights 2 times. 0/2
 
 ### Things I'll Do This Month: May 2017
 
-- [ ] Draw a lot.
-- [x] Go to the Biggest week in American Birding.
-- [ ] Make more bread.
-- [x] Read a book.
+- [ ] Paint a lot.
+- [ ] Keep working on Spanish.
+- [ ] Do some baking.
+- [ ] Get a board and tape for painting.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
