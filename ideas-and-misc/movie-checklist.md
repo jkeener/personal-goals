@@ -2,6 +2,7 @@
 
 ## June 2017
 
+- Gentlemen Prefer Blondes
 - Tangled
 
 ## May 2017
