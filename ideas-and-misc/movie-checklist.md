@@ -2,6 +2,13 @@
 
 ## June 2017
 
+- Wonder Woman
+- Sausage Party
+- Zelig
+- Clue
+- Mission: Impossible - Rogue Nation
+- Little Shop of Horrors
+- Dr. Strange
 - Gentlemen Prefer Blondes
 - Tangled
 
@@ -122,6 +129,7 @@
 
 ## August 2016
 
+- Rocky Horror Picture Show
 - Hellboy
 
 ## July 2016

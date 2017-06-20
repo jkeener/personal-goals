@@ -14,17 +14,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# June 12, 2017
+# June 18, 2017
 
-### This Week's Goal: Art!
+### This Week's Goal: Paint!
 
 ## Things I'll Do This Week:
 
-- [ ] Keep up with spanish work. 
-- [ ] Do some life drawing.
-- [ ] Watch a movie from the list.
-- [ ] Tear some paper.
-- [ ] Write some species notes for pelagic.
+- [ ] Draw Cardnial.
+- [ ] Start painting.
+- [ ] Pelagic notes.
+- [ ] Clean middle drawer of fridge.
 - [ ] Go to the gym 5 times. 0/5
 - [ ] Run 3 times. 0/3
 - [ ] Weights 2 times. 0/2
