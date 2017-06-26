@@ -2,6 +2,7 @@
 
 ## June 2017
 
+- Trolls
 - Wonder Woman
 - Sausage Party
 - Zelig
