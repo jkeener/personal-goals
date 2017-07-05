@@ -14,27 +14,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# June 26, 2017
+# July 2, 2017
 
-### This Week's Goal: Actually do work
+### This Week's Goal: Templates
 
 ## Things I'll Do This Week:
 
-- [ ] Look into template builder.
-- [ ] Draw a portrait.
-- [ ] Draw Cardnial.
-- [ ] Start painting.
-- [ ] Clean bottom drawer of fridge.
+- [ ] Find some articles on templates.
+- [ ] Read beaver builder docs on templates.
+- [ ] Go on a hike.
+- [ ] Practice drawing boxes.
+- [ ] Draw some drapery.
+- [ ] Buy tracing paper.
 - [ ] Go to the gym 5 times. 0/5
 - [ ] Run 3 times. 0/3
 - [ ] Weights 2 times. 0/2
 
-### Things I'll Do This Month: June 2017
+### Things I'll Do This Month: July 2017
 
-- [ ] Paint a lot.
+- [ ] Draw a lot.
 - [ ] Keep working on Spanish.
 - [ ] Do some baking.
-- [ ] Get a board and tape for painting.
-- [x] Read a book.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
