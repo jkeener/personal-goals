@@ -2,6 +2,12 @@
 
 ## July 2017
 
+- Dunkirk
+- European Vacation
+- My Cousin Vinny
+- 21 Jump Street
+- The Princess and the Frog
+- Inside Job
 - Moana
 
 ## June 2017

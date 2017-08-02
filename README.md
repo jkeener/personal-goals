@@ -14,24 +14,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# July 2, 2017
+# July 30, 2017
 
-### This Week's Goal: Templates
+### This Week's Goal: Back on track
 
 ## Things I'll Do This Week:
 
-- [ ] Find some articles on templates.
-- [ ] Read beaver builder docs on templates.
-- [ ] Go on a hike.
-- [ ] Practice drawing boxes.
-- [ ] Draw some drapery.
-- [ ] Buy tracing paper.
-- [ ] Go to the gym 5 times. 0/5
-- [ ] Run 3 times. 0/3
-- [ ] Weights 2 times. 0/2
+- [ ] Go to gym twice.
+- [ ] Finish type pages.
+- [ ] Work on leader pages.
+- [ ] Draw some cloth.
+- [ ] Stay on top of kitchen.
+- [ ] Clean Basement.
+- [ ] Get back to doing Spanish.
 
-### Things I'll Do This Month: July 2017
+### Things I'll Do This Month: August 2017
 
+- [ ] Work on the site...a lot.
 - [ ] Draw a lot.
 - [ ] Keep working on Spanish.
 - [ ] Do some baking.
