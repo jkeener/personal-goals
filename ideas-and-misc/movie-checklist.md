@@ -1,5 +1,11 @@
 # Movies I've watched
 
+## August 2017
+
+- The Bodybuard
+- Lego Batman
+- Popstar
+
 ## July 2017
 
 - Dunkirk
