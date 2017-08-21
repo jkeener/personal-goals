@@ -14,20 +14,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# August 14, 2017
+# August 21, 2017
 
 ### This Week's Goal: Finish tours
 
 ## Things I'll Do This Week:
 
-- [ ] Go to gym 2 times. 0/2
 - [ ] Finish tour pages.
-- [ ] Work on cardinal.
+- [ ] Work on front page.
+- [ ] Work on menus.
+- [ ] Go to gym 3 times. 0/3
 - [ ] Stay on top of kitchen.
 - [ ] Do Spanish.
 - [ ] Knit.
-- [ ] Scrub tub.
-- [ ] Put box of clothes away.
+- [ ] Work on site everyday 0/5
 
 ### Things I'll Do This Month: August 2017
 
