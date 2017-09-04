@@ -14,25 +14,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# August 21, 2017
+# September 4, 2017
 
-### This Week's Goal: Finish tours
+### This Week's Goal: Finishing Touches
 
 ## Things I'll Do This Week:
 
-- [ ] Finish tour pages.
-- [ ] Work on front page.
-- [ ] Work on menus.
-- [ ] Go to gym 3 times. 0/3
+- [ ] Check every page/fix what is needed.
+- [ ] Add social links to contact page.
 - [ ] Stay on top of kitchen.
+- [ ] Tactics everyday.
+- [ ] Endings everyday.
+- [ ] Fix stuff.
+- [ ] Work on bottom desk drawer.
 - [ ] Do Spanish.
 - [ ] Knit.
-- [ ] Work on site everyday 0/5
+- [ ] Draw.
 
-### Things I'll Do This Month: August 2017
+### Things I'll Do This Month: September 2017
 
-- [ ] Work on the site...a lot.
-- [ ] Draw a lot.
+- [ ] Finish Site
+- [ ] Finish a knitting project.
 - [ ] Keep working on Spanish.
 - [ ] Do some baking.
 - [ ] Read a book.

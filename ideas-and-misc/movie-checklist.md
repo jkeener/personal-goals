@@ -1,7 +1,18 @@
 # Movies I've watched
 
+## September 2017
+
+- Hellboy 2
+- The Prestige
+- Austin Powers: The Spy who Shagged Me
+- Tron
+
 ## August 2017
 
+- Manchester by the Sea
+- Captain America: Civil War
+- Lost in Space
+- The Martix Revolutions
 - The Cell
 - The Matrix Reloaded
 - The Matrix
