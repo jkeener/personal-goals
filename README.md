@@ -14,22 +14,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# September 12, 2017
+# September 18, 2017
 
-### This Week's Goal: New projects/gym
+### This Week's Goal: VACATION
 
 ## Things I'll Do This Week:
 
-- [ ] Try to work on Alaina's sweater basket.
-- [ ] Bake something.
-- [ ] Gym everyday.
-- [ ] Brainstorm new projects.
-- [ ] Stay on top of kitchen.
-- [ ] Tactics everyday.
-- [ ] Endings everyday.
-- [ ] Do Spanish.
-- [ ] Knit.
-- [ ] Draw.
+- [ ] Go to California!
+- [ ] Go on a pelagic trip!
+- [ ] Have fun!
+- [ ] Try not ro freak out too much.
+- [ ] Start packing on monday.
+- [ ] Email Kevin.
 
 ### Things I'll Do This Month: September 2017
 
