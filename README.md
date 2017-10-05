@@ -14,25 +14,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# September 18, 2017
+# October 1, 2017
 
-### This Week's Goal: VACATION
+### This Week's Goal: Continue side project
 
 ## Things I'll Do This Week:
 
-- [ ] Go to California!
-- [ ] Go on a pelagic trip!
-- [ ] Have fun!
-- [ ] Try not ro freak out too much.
-- [ ] Start packing on monday.
-- [ ] Email Kevin.
+- [ ] Get gif up on page load.
+- [ ] Make the gif random.
+- [ ] Look into taking making the loop with no repeats.
+- [ ] Make button a diffrent component?
+- [ ] Spanish everyday.
+- [ ] Laundry.
+- [ ] Watch postseason baseball!
 
 ### Things I'll Do This Month: September 2017
 
-- [x] Finish Site
+- [ ] Finish side project.
 - [ ] Finish a knitting project.
 - [ ] Keep working on Spanish.
 - [ ] Do some baking.
-- [x] Read a book.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
