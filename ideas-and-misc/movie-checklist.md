@@ -1,7 +1,15 @@
 # Movies I've watched
 
+## October 2017
+
+- Cabaret
+- Rear Window
+- London Has Fallen
+- Blade Runner 2049
+
 ## September 2017
 
+- Pee Wee's Big Adventure
 - Hellboy 2
 - The Prestige
 - Austin Powers: The Spy who Shagged Me
