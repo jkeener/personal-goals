@@ -2,6 +2,8 @@
 
 ## October 2017
 
+- A Touch of Evil
+- Roman Holiday
 - Cabaret
 - Rear Window
 - London Has Fallen
