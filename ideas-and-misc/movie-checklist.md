@@ -2,6 +2,7 @@
 
 ## October 2017
 
+- The Bride of Frankenstien
 - A Touch of Evil
 - Roman Holiday
 - Cabaret
