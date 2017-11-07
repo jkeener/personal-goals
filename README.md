@@ -14,23 +14,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# October 29, 2017
+# November 5, 2017
 
-### This Week's Goal: Finish CSS layout book
+### This Week's Goal: Rework vue-portfolio
 
 ## Things I'll Do This Week:
 
-- [x] Read The New CSS Layout.
 - [ ] Read one chapter of Eloquent JS.
 - [ ] Work on Eloquent JS problems.
 - [ ] Don't lose your mind if you can't solve a problem.
-- [ ] Dump out old milk.
-- [ ] Go to the gym 5 times.
-- [ ] Spanish everyday.
+- [ ] Transitions with vue-router?
+- [ ] Change vue-portfolio to use transitions.
+- [ ] Take out js and use position: sticky on menu.
+- [ ] Update vue-portfolio to use grid on images.
+- [ ] Go to the gym 3 times.
 - [ ] Read 3 articles from Pocket.
 
-
-### Things I'll Do This Month: September 2017
+### Things I'll Do This Month: November 2017
 
 - [ ] Start portfolio.
 - [ ] Keep working on Spanish.
