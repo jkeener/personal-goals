@@ -1,7 +1,28 @@
 # Movies I've watched
 
+## December 2018
+
+- Mulan
+- Little Mermaid
+- Zootopia
+- Elf
+- Gaurdians of the Galaxy vol 2
+
 ## November 2017
 
+- Dr. Strangelove
+- Badlands
+- Funny Face
+- Bad Taste
+- Spirited Away
+- Sunset Boulevard
+- Susperia
+- Avengers
+- Thor
+- The Incredible Hulk
+- Iron Man 2
+- Iron Man
+- Captain America: The First Avenger
 - Thor: Ragnarok
 
 ## October 2017

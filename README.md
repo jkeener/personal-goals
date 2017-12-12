@@ -14,27 +14,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# November 5, 2017
+# December 11, 2017
 
-### This Week's Goal: Rework vue-portfolio
+### This Week's Goal: Go to the gym. Start Slow
 
 ## Things I'll Do This Week:
 
-- [ ] Read one chapter of Eloquent JS.
-- [ ] Work on Eloquent JS problems.
-- [ ] Don't lose your mind if you can't solve a problem.
-- [ ] Transitions with vue-router?
-- [ ] Change vue-portfolio to use transitions.
-- [ ] Take out js and use position: sticky on menu.
-- [ ] Update vue-portfolio to use grid on images.
-- [ ] Go to the gym 3 times.
-- [ ] Read 3 articles from Pocket.
+- [ ] Go to the gym twice.
+- [ ] Make the bed everyday.
+- [ ] Do Spanish everyday.
+- [ ] Draw some.
+- [ ] Practice cursive.
+- [ ] Jury duty.
 
-### Things I'll Do This Month: November 2017
+### Things I'll Do This Month: December 2017
 
-- [ ] Start portfolio.
 - [ ] Keep working on Spanish.
 - [ ] Do some baking.
-- [x] Read a book.
+- [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter
