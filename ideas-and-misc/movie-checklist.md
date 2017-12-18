@@ -2,6 +2,7 @@
 
 ## December 2018
 
+- Star Wars: The Last Jedi
 - Mulan
 - Little Mermaid
 - Zootopia

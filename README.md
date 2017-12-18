@@ -14,9 +14,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# December 11, 2017
+# December 17, 2017
 
-### This Week's Goal: Go to the gym. Start Slow
+### This Week's Goal: Keep at it
 
 ## Things I'll Do This Week:
 
@@ -25,7 +25,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Do Spanish everyday.
 - [ ] Draw some.
 - [ ] Practice cursive.
-- [ ] Jury duty.
+- [ ] Ask myself questions about art project.
+- [ ] Answer questions.
+- [ ] Pack for trip.
 
 ### Things I'll Do This Month: December 2017
 
