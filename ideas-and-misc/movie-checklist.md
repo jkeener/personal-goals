@@ -1,8 +1,83 @@
 # Movies I've watched
 
-## December 2018
+## Feburary 2018
 
+- Blazing Saddles
+- A Fantastic Woman
+- Peter Rabbit
+- Sideways
+- Molly's Game
+- Darkest Hour
+- Call me by Your Name
+
+## January 2018
+
+- The Post
+- Phantom Thread
+- Lethal Weapon
+- Batman Begins
+- Solaris
+- Zoolander
+- Ladybird
+- Moana
+- The Lord of the Rings: The Return of the King
+- Murder on the Orient Express (1974)
+- Caddyshack
+- The Lord of the Rings: The Two Towers
+- The Incredibles
+- 3 Billboards outside Ebbing, Missouri
+- I, Tonya
+- Bugsy Malone
+- The Lord of the Rings: The Fellowship of the Ring
+- Justice League
+- Batman v Superman: Dawn of Justice
+- Man of Steel
+- Wonder Woman
+- Spider-man: Homecoming
+- Captain America: Civil War
+- Ant-Man
+- Avengers: Age of Ultron
+- Guardians of the Galaxy Vol. 2
+- Guardians of the Galaxy Vol. 1
+- Captain America: Winter Soldier
+- Thor: The Dark World
+- Iron Man 3
+- The Greatest Showman
+- Le Cercle Rouge
+- Coco
+- Uncle Buck
+- Star Wars: Episode V - the Empire Strikes Back
+- Godzilla
+- Kong: Skull Island
+- Star Wars: Episode IV - A New Hope
+- Rogue One: A Star Wars Story
+- Star Wars: Episode III – Revenge of the Sith
+- Star Wars: Episode II – Attack of the Clones
+- Star Wars: Episode I - The Phantom Menace
+- The Blues Brothers
+- The Shape of Water
+
+## December 2017
+
+- Coming to America
 - Star Wars: The Last Jedi
+- Jumanji: Welcome to the Jungle
+- A Christmas Story
+- It's a Wonderful Life
+- Chicago
+- The Sound of Music
+- West Side Story
+- Holiday Inn
+- The Nightmare Before Christmas
+- Meet me in St Louis
+- Hedwig and the Angry Inch
+- Guys and Dolls
+- Singin' in the Rain
+- The Wizard of Oz
+- Willy Wonka and the Chocolate Factory
+- Mary Poppins
+- Star Wars: The Last Jedi
+- White Christmas
 - Mulan
 - Little Mermaid
 - Zootopia
@@ -87,7 +162,7 @@
 - Alien
 - La La Land
 - Rogue One: A Star Wars Story
-- Guardians of the Galaxy vol. 2
+- Guardians of the Galaxy Vol. 2
 - Star Wars: The Phantom Menace
 - Pirates of the Caribbean: At World's End
 - Pirates of the Caribbean: The Curse of the Black Pearl
