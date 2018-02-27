@@ -14,19 +14,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# January 14, 2018
+# Feburary 26, 2018
 
-### This Week's Goal: Even babier steps
+### This Week's Goal: Have some fun
 
 ## Things I'll Do This Week:
 
 - [ ] Go to the gym once.
-- [ ] Spanish cards everyday.
-- [ ] Interval practice everyday.
+- [ ] Have fun with Adam and Hilary.
 - [ ] Make bed everyday.
-- [ ] Knit.
+- [ ] Spanish cards when I can.
+- [ ] Be nice.
 
-### Things I'll Do This Month: December 2017
+### Things I'll Do This Month: Feburary 2018
 
 - [ ] Keep working on Spanish.
 - [ ] Draw.
