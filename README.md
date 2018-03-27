@@ -14,19 +14,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# March 12, 2018
+# March 25, 2018
 
-### This Week's Goal: Draw and write II
+### This Week's Goal: Draw and write
 
 ## Things I'll Do This Week:
 
-- [ ] Go to the gym twice.
+- [ ] Go to the gym three times.
 - [ ] Make bed everyday.
 - [ ] Spanish everyday.
-- [ ] Draw.
-- [ ] Try to do a more finished drawing.
-- [ ] Free write.
-- [ ] Try to stay on top of kitchen.
+- [ ] Draw everyday.
+- [ ] Look up some schools.
+- [ ] Learn a spanish song on guitar.
+- [ ] Free write everyday for 10 minutes.
+- [ ] Go to the eye doctor.
 
 ### Things I'll Do This Month: March 2018
 
