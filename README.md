@@ -14,18 +14,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# April 1, 2018
+# April 14, 2018
 
-### This Week's Goal: Schools
+### This Week's Goal: Look up schools and draw.
 
 ## Things I'll Do This Week:
 
 - [ ] Go to the gym three times.
 - [ ] Make bed everyday.
-- [ ] Spanish everyday.
-- [ ] Look up some schools.
-- [ ] Free write everyday for 10 minutes.
-- [ ] Finish Bridgeman.
+- [ ] Do some spanish
+- [ ] Find 5 more schools.
+- [ ] Draw some.
+- [ ] Stream.
+
 
 ### Things I'll Do This Month: March 2018
 
