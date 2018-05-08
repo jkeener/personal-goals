@@ -25,10 +25,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Do a set of cards.
 - [ ] Look of profs from 5 schools.
 - [ ] Draw.
-- [ ] Thumbnails for portfolio.
+- [ ] Start a painting.
 - [ ] Stream.
-- [ ] Change the sheets.
-- [ ] Clean up desk.
+- [ ] Wash bath mats.
+- [ ] Work on under the coffee table.
 
 ### Things I'll Do This Month: February 2018
 
