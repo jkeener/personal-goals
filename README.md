@@ -14,23 +14,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# April 29, 2018
+# May 14, 2018
 
-### This Week's Goal: More school list/draw
+### This Week's Goal: Start a painting
 
 ## Things I'll Do This Week:
 
 - [ ] Go to the gym three times.
 - [ ] Make bed everyday.
 - [ ] Do a set of cards.
-- [ ] Look of profs from 5 schools.
 - [ ] Draw.
-- [ ] Start a painting.
 - [ ] Stream.
-- [ ] Wash bath mats.
-- [ ] Work on under the coffee table.
+- [ ] Tear paper.
+- [ ] Sketch drawing.
+- [ ] Start painting.
+- [ ] Order pens.
 
-### Things I'll Do This Month: February 2018
+### Things I'll Do This Month: May 2018
 
 - [ ] Keep working on Spanish.
 - [ ] Draw. 
