@@ -1,7 +1,25 @@
 # Movies I've watched
 
+## June 2018
+
+- Jurassic World: Fallen Kingdom
+- Mamma Mia
+- Tag
+- Mission Impossible 3
+- Mission Impossible 2
+- Mission Impossible
+- Ghostbusters 2
+- Ocean's 8
+- Thor: Ragnarok
+- Solo: A Star Wars Story
+
 ## May 2018
 
+- Black Panther
+- Men in Black
+- The 40-Year-Old Virgin
+- Deadpool 2
+- Kubo and the 2 Strings
 - Breaking In
 - Avengers: Infinity War
 - Guardians of the Galaxy Vol. 2
