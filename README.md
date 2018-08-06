@@ -14,26 +14,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Go birding more.
 6. Do more art
 
-# July 1, 2018
+# August 5, 2018
 
-### This Week's Goal: Start the Big Drawing Challenge
+### This Week's Goal: Back on track
 
 ## Things I'll Do This Week:
 
-- [ ] Go to the gym three times.
-- [ ] Make bed everyday.
-- [ ] Stream.
-- [ ] At least 3 drawings a day.
+- [ ] Do the set of cards everyday.
+- [ ] Send Ellie a birthday present.
+- [ ] Gym three times.
+- [ ] Stretch everyday.
+- [ ] Pair down paintings.
+- [ ] Watch some(all!) of the pelvis video: https://vimeo.com/168720863
 - [ ] Knit.
-- [ ] Scrub the tub.
-- [ ] Try to organize behind the tv.
-- [ ] Send library an email about kanopy.
-- [ ] Do some spanish.
+- [ ] Change wipers.
 
-### Things I'll Do This Month: July 2018
+### Things I'll Do This Month: August 2018
 
-- [ ] Keep working on Spanish.
-- [ ] 100 drawings or paintings.
+- [ ] Work on Spanish
+- [ ] Stay on top of kitchen.
 - [ ] Read a book.
 
 Thanks to Una for creating the original template for this repo. Check it out here: https://github.com/una/personal-goals-starter

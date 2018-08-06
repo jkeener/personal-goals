@@ -1,5 +1,18 @@
 # Movies I've watched
 
+## July 2018
+
+- Hurricane of Fun: The Making of Wet Hot
+- Mission Impossible: Fallout
+- Monsieur Hulot's Holiday
+- Bee Movie
+- Sorry to Bother You
+- 2 Days in Paris
+- Get Smart
+- GLOW: The Story of the Gorgeous Ladies of Wrestling
+- Ant-Man and the Wasp
+- Set it Up
+
 ## June 2018
 
 - Jurassic World: Fallen Kingdom
